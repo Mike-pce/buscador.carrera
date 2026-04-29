@@ -9,5 +9,6 @@ const archivosComunidades = [
 	"castilla-y-leon.js",	
 	"castilla-la-mancha.js",
 	"navarra.js",
+	"galicia.js",
     // "galicia.js"
 ];
