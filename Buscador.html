@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Notas de Corte</title>
+    
+    <!-- Importar fuente Poppins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Tailwind CSS para el diseño rápido y responsive -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Configuración de colores personalizados y fuente -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#109AD3',
+                        secondary: '#003E93',
+                        accent: '#DB0789',
+                    },
+                    fontFamily: {
+                        poppins: ['Poppins', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f8fafc;
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.3s ease-in-out;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body class="p-4 md:p-8 text-gray-800">
+
+    <div class="max-w-6xl mx-auto bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100">
+        
+        <!-- Cabecera -->
+        <div class="bg-secondary p-6 md:p-8 text-white text-center md:text-left flex flex-col md:flex-row items-center justify-between">
+            <div class="flex flex-col md:flex-row items-center gap-6">
+                <!-- Logo -->
+                <img src="https://www.academiam25.com/wp-content/uploads/2025/06/2-logos.png" alt="Academia M25 Logos" class="h-14 md:h-16 object-contain bg-white p-2 rounded-xl shadow-sm">
+                <div>
+                    <h1 class="text-3xl font-bold mb-2">Buscador de Grados</h1>
+                    <p class="text-primary font-medium text-lg"><span id="region-names">Cargando Comunidades...</span> <span id="academic-year" class="text-white opacity-80 text-sm ml-2"></span></p>
+                </div>
+            </div>
+            <div class="mt-4 md:mt-0 bg-white/10 p-3 rounded-lg backdrop-blur-sm border border-white/20 text-center min-w-[120px]">
+                <span class="block text-sm opacity-80">Convocatoria</span>
+                <span class="block font-semibold capitalize" id="call-type">Ordinaria</span>
+            </div>
+        </div>
+
+        <!-- Filtros -->
+        <div class="p-6 border-b border-gray-100 bg-gray-50 grid grid-cols-1 md:grid-cols-12 gap-4">
+            
+            <!-- Buscador de texto (Ocupa más espacio) -->
+            <div class="md:col-span-4 relative">
+                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                    <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                </div>
+                <input type="text" id="searchInput" placeholder="Busca por titulación o código..." class="w-full pl-10 pr-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary focus:border-primary transition-all outline-none shadow-sm">
+            </div>
+
+            <!-- Selector de Universidad -->
+            <div class="md:col-span-3">
+                <select id="universitySelect" class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary focus:border-primary transition-all outline-none shadow-sm bg-white appearance-none cursor-pointer text-sm">
+                    <option value="">Cargando...</option>
+                </select>
+            </div>
+
+            <!-- Selector de Vía de Acceso -->
+            <div class="md:col-span-3">
+                <select id="groupSelect" class="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary focus:border-primary transition-all outline-none shadow-sm bg-white appearance-none cursor-pointer text-sm">
+                    <!-- Se llenará con JS -->
+                </select>
+            </div>
+
+            <!-- Input de Nota del Usuario -->
+            <div class="md:col-span-2 relative group">
+                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                    <span class="text-gray-500 font-semibold text-sm">Nota:</span>
+                </div>
+                <input type="number" id="userGradeInput" step="0.01" min="5" max="14" placeholder="Ej: 11.5" class="w-full pl-16 pr-2 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary focus:border-primary transition-all outline-none shadow-sm">
+                
+                <div class="absolute -top-10 left-1/2 transform -translate-x-1/2 bg-gray-800 text-white text-xs py-1 px-2 rounded opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none whitespace-nowrap z-10">
+                    Tu nota orientativa (5 - 14)
+                </div>
+            </div>
+
+            <!-- Selector de Ordenación -->
+            <div class="md:col-span-12 flex justify-end">
+                <div class="w-full md:w-64">
+                    <select id="sortSelect" class="w-full px-4 py-2 text-sm rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary focus:border-primary transition-all outline-none shadow-sm bg-white appearance-none cursor-pointer">
+                        <option value="nota-desc">Ordenar por Nota (Mayor a menor)</option>
+                        <option value="nota-asc">Ordenar por Nota (Menor a mayor)</option>
+                        <option value="alfabetico-asc">Nombre (A - Z)</option>
+                        <option value="universidad">Universidad</option>
+                        <option value="comunidad">Comunidad Autónoma</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <!-- Resultados -->
+        <div class="p-6">
+            <div class="flex flex-col md:flex-row justify-between items-center mb-6 gap-4">
+                <h2 class="text-xl font-semibold text-secondary whitespace-nowrap">Resultados</h2>
+                
+                <div id="paginationContainerTop" class="flex justify-center items-center gap-1 md:gap-2 flex-wrap order-3 md:order-none w-full md:w-auto mt-2 md:mt-0">
+                </div>
+
+                <span id="resultsCount" class="text-sm font-medium bg-primary text-white py-1 px-3 rounded-full whitespace-nowrap order-2 md:order-none">0 grados</span>
+            </div>
+
+            <div id="resultsContainer" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <!-- Tarjetas de resultados -->
+            </div>
+
+            <div id="paginationContainerBottom" class="mt-8 flex justify-center items-center gap-1 md:gap-2 flex-wrap">
+            </div>
+            
+            <div id="noResults" class="hidden text-center py-12">
+                <svg class="mx-auto h-12 w-12 text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                <p class="text-gray-500 font-medium text-lg" id="noResultsText">Cargando datos...</p>
+                <button onclick="resetFilters()" class="mt-4 text-primary hover:text-secondary underline transition-colors" id="btnResetFilters" style="display:none;">Limpiar filtros</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Detalles -->
+    <div id="detailsModal" class="fixed inset-0 bg-black/50 hidden items-center justify-center z-50 p-4 opacity-0 transition-opacity duration-300">
+        <div class="bg-white rounded-2xl shadow-2xl w-full max-w-lg overflow-hidden transform scale-95 transition-transform duration-300" id="modalContent">
+            <div class="bg-secondary p-4 flex justify-between items-center text-white">
+                <h3 class="font-bold text-lg">Detalles del Grado</h3>
+                <button onclick="closeModal()" class="text-white hover:text-accent transition-colors">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                </button>
+            </div>
+            <div class="p-6" id="modalBody">
+            </div>
+            <div class="bg-gray-50 p-4 border-t border-gray-100 flex justify-end">
+                <button onclick="closeModal()" class="bg-primary hover:bg-secondary text-white px-5 py-2 rounded-xl transition-colors font-medium">Cerrar</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ==========================================
+         CARGADOR DINÁMICO DE SCRIPTS
+         ========================================== -->
+    <script>
+        // LISTA POR DEFECTO REVISADA (Incluye cataluna.js)
+        const fallbackConfig = [
+            "madrid.js",
+            "andalucia.js",
+            "valencia.js",
+            "cataluna.js"
+        ];
+
+        let scriptPromises = [];
+
+        function cargarScript(url) {
+            return new Promise((resolve) => {
+                const script = document.createElement('script');
+                script.src = url;
+                script.onload = resolve;
+                script.onerror = () => {
+                    console.warn(`No se pudo cargar el archivo: ${url}`);
+                    resolve(); 
+                };
+                document.head.appendChild(script);
+            });
+        }
+
+        async function inicializarCarga() {
+            let configCargada = false;
+
+            try {
+                const configScript = document.createElement('script');
+                configScript.src = "config_comunidades.js";
+                
+                await new Promise((resolve, reject) => {
+                    configScript.onload = resolve;
+                    configScript.onerror = reject;
+                    document.head.appendChild(configScript);
+                });
+                
+                if (typeof archivosComunidades !== 'undefined' && Array.isArray(archivosComunidades)) {
+                    configCargada = true;
+                    for (const archivo of archivosComunidades) {
+                        scriptPromises.push(cargarScript(archivo));
+                    }
+                }
+            } catch (error) {
+                console.log("No se encontró config_comunidades.js. Usando lista automática de prueba.");
+            }
+
+            if (!configCargada) {
+                for (const archivo of fallbackConfig) {
+                    scriptPromises.push(cargarScript(archivo));
+                }
+            }
+
+            await Promise.all(scriptPromises);
+            setTimeout(procesarDatosCargados, 100);
+        }
+        
+        inicializarCarga();
+
+
+        // ==========================================
+        // LÓGICA PRINCIPAL A PRUEBA DE FALLOS (DEFENSIVA)
+        // ==========================================
+        let database = {
+            academicYear: "",
+            call: "",
+            regions: [],
+            programs: [],
+            availableGroups: {} 
+        };
+
+        let filteredPrograms = [];
+        let currentPage = 1;
+        const itemsPerPage = 10;
+
+        const searchInput = document.getElementById('searchInput');
+        const userGradeInput = document.getElementById('userGradeInput');
+        const universitySelect = document.getElementById('universitySelect');
+        const sortSelect = document.getElementById('sortSelect');
+        const groupSelect = document.getElementById('groupSelect'); 
+        const resultsContainer = document.getElementById('resultsContainer');
+        const resultsCount = document.getElementById('resultsCount');
+        const noResults = document.getElementById('noResults');
+        const noResultsText = document.getElementById('noResultsText');
+        const btnResetFilters = document.getElementById('btnResetFilters');
+        const paginationContainerTop = document.getElementById('paginationContainerTop');
+        const paginationContainerBottom = document.getElementById('paginationContainerBottom');
+
+        // Limpiador seguro de notas
+        function parseGrade(val) {
+            if (val === null || val === undefined || val === '' || val === '-' || val === 'N/A') return null;
+            if (typeof val === 'number') return val;
+            if (typeof val === 'string') {
+                let cleanString = val.trim().replace(',', '.');
+                let parsed = parseFloat(cleanString);
+                return isNaN(parsed) ? null : parsed;
+            }
+            return null;
+        }
+
+        function procesarDatosCargados() {
+            let hayDatos = false;
+            let fuentesEncontradas = [];
+
+            const listaArchivos = (typeof archivosComunidades !== 'undefined') ? archivosComunidades : fallbackConfig;
+
+            // MÉTODO 1: Extracción inteligente (A prueba de 'const')
+            listaArchivos.forEach(archivo => {
+                let nombreBase = archivo.split('/').pop().replace('.js', '');
+                let nombreLimpio = nombreBase.replace(/[^a-zA-Z0-9]/g, '');
+                let nombreCapitalizado = nombreLimpio.charAt(0).toUpperCase() + nombreLimpio.slice(1);
+                
+                let variableEsperada = "datos" + nombreCapitalizado; 
+
+                try {
+                    let datosExtraidos = eval(variableEsperada);
+                    if (datosExtraidos && typeof datosExtraidos === 'object' && datosExtraidos.programs) {
+                        if (!fuentesEncontradas.includes(datosExtraidos)) {
+                            fuentesEncontradas.push(datosExtraidos);
+                        }
+                    }
+                } catch (e) {
+                    // Falla silenciosamente y lo intenta por el método 2
+                }
+            });
+
+            // MÉTODO 2: Respaldo buscando variables globales por si el archivo tenía otro nombre
+            for (let prop in window) {
+                if (prop.startsWith("datos") && typeof window[prop] === 'object' && window[prop] !== null && window[prop].programs) {
+                    if (!fuentesEncontradas.includes(window[prop])) {
+                        fuentesEncontradas.push(window[prop]);
+                    }
+                }
+            }
+
+            // Unimos todos los datos recolectados (Totalmente unificado a prueba de errores)
+            fuentesEncontradas.forEach(datos => {
+                hayDatos = true;
+                
+                if (!database.academicYear) database.academicYear = datos.academicYear;
+                if (!database.call) database.call = datos.call;
+                
+                if (datos.region && !database.regions.includes(datos.region)) {
+                    database.regions.push(datos.region);
+                }
+
+                // Asegurar que notes y groups existen (anti-crash)
+                const groupDescriptions = (datos.notes && datos.notes.groupMap) ? datos.notes.groupMap : 
+                                          (datos.notes && datos.notes.groups) ? datos.notes.groups : {};
+
+                Object.keys(groupDescriptions).forEach(key => {
+                     let shortName = groupDescriptions[key];
+                     if (typeof shortName === 'string') {
+                         if(shortName.includes("Pruebas de acceso a la uni") || shortName.includes("Cupo general") || shortName === "General" || shortName === "PAU / CFGS") {
+                             shortName = "General (Bachillerato/FP)";
+                         }
+                         if(shortName.includes("Titulados universitar")) shortName = "Titulados Universitarios";
+                     } else {
+                         shortName = "Vía " + key;
+                     }
+                     
+                     if (!database.availableGroups[key]) {
+                         database.availableGroups[key] = {
+                             id: key,
+                             shortName: shortName,
+                             fullDescription: groupDescriptions[key] || "Información no disponible"
+                         };
+                     }
+                });
+                
+                if (Array.isArray(datos.programs)) {
+                    const normalizedPrograms = datos.programs.map(p => {
+                        let standardP = { ...p };
+                        standardP.region = datos.region || "Desconocida";
+
+                        // 1. REPARACIÓN DE NOMBRES (Si falta, no crashea)
+                        standardP.displayName = p.displayName || p.n || p.officialName || "Grado sin nombre";
+                        standardP.university = p.university || p.u || "Universidad desconocida";
+                        standardP.campus = p.campus || p.c || null;
+
+                        // 2. REPARACIÓN DE TÉRMINOS DE BÚSQUEDA
+                        let sTerms = Array.isArray(p.searchTerms) ? p.searchTerms : 
+                                     (p.n ? [p.n, p.nn, p.u] : [standardP.displayName, standardP.university]);
+                        
+                        // Filtrar nulos para evitar crasheos en .toLowerCase()
+                        standardP.searchTerms = sTerms.filter(t => t != null).map(String);
+                        standardP.searchTerms.push(standardP.region);
+
+                        // 3. REPARACIÓN DE NOTAS (Soporta formato Lite y Completo a la vez)
+                        if (p.a && !standardP.accessRecords) {
+                            // Era formato LITE (ej. algunas de Andalucía/Valencia)
+                            standardP.accessRecords = [];
+                            Object.keys(p.a).forEach(groupKey => {
+                                 let notaNumerica = parseGrade(p.a[groupKey]);
+                                 if(notaNumerica !== null || p.a[groupKey] !== undefined) {
+                                     standardP.accessRecords.push({
+                                         groupKey: groupKey,
+                                         ordinary: notaNumerica,
+                                         groupDescription: groupDescriptions[groupKey] || "Cupo general"
+                                     });
+                                 }
+                            });
+                        } else if (Array.isArray(standardP.accessRecords)) {
+                            // Era formato COMPLETO (ej. Madrid o unificados)
+                            standardP.accessRecords = standardP.accessRecords.map(rec => {
+                                let safeRec = { ...rec };
+                                if(!safeRec.groupKey && safeRec.group) {
+                                    safeRec.groupKey = safeRec.group.toLowerCase().replace('rupo ', 'roup').replace(' ', ''); 
+                                }
+                                safeRec.ordinary = parseGrade(safeRec.ordinary);
+                                if (safeRec.extraordinary !== undefined) safeRec.extraordinary = parseGrade(safeRec.extraordinary);
+                                
+                                // Rellenar descripciones si las perdió al unificar
+                                if (!safeRec.groupDescription && safeRec.groupKey) {
+                                    safeRec.groupDescription = groupDescriptions[safeRec.groupKey] || safeRec.group || "Cupo general";
+                                }
+                                return safeRec;
+                            });
+                        } else {
+                            standardP.accessRecords = [];
+                        }
+
+                        return standardP;
+                    });
+
+                    database.programs = database.programs.concat(normalizedPrograms);
+                }
+            });
+
+            if (!hayDatos) {
+                resultsContainer.classList.add('hidden');
+                noResults.classList.remove('hidden');
+                noResultsText.innerHTML = `
+                    <div class="text-red-600 mb-2 font-bold text-xl">⚠️ Error detectado en tus archivos .js</div>
+                    <div class="text-gray-600 text-base max-w-lg mx-auto leading-relaxed">
+                        El buscador ha intentado abrir los archivos, pero <strong>han fallado al cargar.</strong><br><br>
+                        Esto ocurre el 99% de las veces cuando al intentar "unificar" un código manualmente, se nos olvida <strong>una coma</strong> al final de una línea, o dejamos <strong>una llave { } sin cerrar</strong>.<br><br>
+                        Abre la consola de tu navegador (pulsa F12 y ve a la pestaña "Consola") y te dirá exactamente en qué archivo y línea de tu <code>.js</code> está el error de sintaxis que hay que corregir.
+                    </div>`;
+                return;
+            }
+
+            init();
+        }
+
+        function init() {
+            document.getElementById('academic-year').textContent = database.academicYear;
+            document.getElementById('call-type').textContent = database.call;
+            document.getElementById('region-names').textContent = database.regions.join(' • ');
+
+            // Rellenar Selector de Universidades
+            universitySelect.innerHTML = '<option value="">Todas las Universidades (Toda España)</option>'; 
+            const unisByRegion = {};
+            database.programs.forEach(p => {
+                const region = p.region || "Otras Comunidades";
+                if (!unisByRegion[region]) {
+                    unisByRegion[region] = new Set();
+                }
+                unisByRegion[region].add(p.university);
+            });
+
+            const sortedRegions = Object.keys(unisByRegion).sort();
+
+            sortedRegions.forEach(region => {
+                const optgroup = document.createElement('optgroup');
+                optgroup.label = `📍 ${region}`; 
+
+                const allRegionOption = document.createElement('option');
+                allRegionOption.value = `REGION:${region}`;
+                allRegionOption.textContent = `▶ Todas las de ${region}`;
+                allRegionOption.className = "font-semibold text-primary"; 
+                optgroup.appendChild(allRegionOption);
+
+                const sortedUnis = [...unisByRegion[region]].sort();
+                sortedUnis.forEach(uni => {
+                    const option = document.createElement('option');
+                    option.value = uni;
+                    option.textContent = `  ${uni}`; 
+                    optgroup.appendChild(option);
+                });
+
+                universitySelect.appendChild(optgroup);
+            });
+
+            // Rellenar Selector de Vías de Acceso (Grupos)
+            groupSelect.innerHTML = '';
+            
+            const allGroups = Object.values(database.availableGroups);
+            const group1 = allGroups.find(g => g.id === 'group1');
+            const otherGroups = allGroups.filter(g => g.id !== 'group1');
+            
+            const orderedGroups = group1 ? [group1, ...otherGroups] : allGroups;
+
+            orderedGroups.forEach(g => {
+                const option = document.createElement('option');
+                option.value = g.id;
+                option.textContent = `Vía: ${g.shortName}`;
+                groupSelect.appendChild(option);
+            });
+
+            filterData();
+
+            searchInput.addEventListener('input', filterData);
+            userGradeInput.addEventListener('input', filterData);
+            universitySelect.addEventListener('change', filterData);
+            sortSelect.addEventListener('change', filterData);
+            groupSelect.addEventListener('change', filterData); 
+        }
+
+        function getGradeForCurrentGroup(program) {
+            const currentGroupKey = groupSelect.value;
+            if (!program.accessRecords || !Array.isArray(program.accessRecords)) return null;
+            
+            const record = program.accessRecords.find(r => r.groupKey === currentGroupKey);
+            return (record && record.ordinary !== null && record.ordinary !== undefined) ? record.ordinary : null;
+        }
+
+        function sortData(programs) {
+            const sortVal = sortSelect.value;
+            return programs.sort((a, b) => {
+                const gradeA = getGradeForCurrentGroup(a) !== null ? getGradeForCurrentGroup(a) : -1;
+                const gradeB = getGradeForCurrentGroup(b) !== null ? getGradeForCurrentGroup(b) : -1;
+
+                switch(sortVal) {
+                    case 'nota-desc': return gradeB - gradeA;
+                    case 'nota-asc': 
+                        if(gradeA === -1 && gradeB !== -1) return 1;
+                        if(gradeB === -1 && gradeA !== -1) return -1;
+                        return gradeA - gradeB;
+                    case 'alfabetico-asc': return (a.displayName || "").localeCompare(b.displayName || "");
+                    case 'alfabetico-desc': return (b.displayName || "").localeCompare(a.displayName || "");
+                    case 'universidad': return (a.university || "").localeCompare(b.university || "") || (a.displayName || "").localeCompare(b.displayName || "");
+                    case 'comunidad': return (a.region || '').localeCompare(b.region || '') || (a.displayName || "").localeCompare(b.displayName || "");
+                    default: return 0;
+                }
+            });
+        }
+
+        function filterData() {
+            const searchTerm = searchInput.value.toLowerCase();
+            const selectedUni = universitySelect.value;
+            const userGrade = parseFloat(userGradeInput.value);
+            const currentGroupKey = groupSelect.value; 
+
+            const MARGEN_TOLERANCIA = 0.5;
+
+            const filtered = database.programs.filter(program => {
+                // Reparación super-segura contra fallos del .toLowerCase si el nombre es nulo
+                const safeName = (program.displayName || "").toString().toLowerCase();
+                const matchesSearch = safeName.includes(searchTerm) || 
+                                      (Array.isArray(program.searchTerms) && program.searchTerms.some(term => (term || "").toString().toLowerCase().includes(searchTerm)));
+                
+                let matchesUni = false;
+                if (selectedUni === "") {
+                    matchesUni = true; 
+                } else if (selectedUni.startsWith("REGION:")) {
+                    const targetRegion = selectedUni.substring(7); 
+                    matchesUni = (program.region === targetRegion);
+                } else {
+                    matchesUni = (program.university === selectedUni);
+                }
+
+                let matchesGrade = true;
+                let hasGradeForGroup = false;
+
+                const programGrade = getGradeForCurrentGroup(program);
+                if (programGrade !== null) {
+                    hasGradeForGroup = true;
+                    if (!isNaN(userGrade)) {
+                        matchesGrade = (userGrade + MARGEN_TOLERANCIA) >= programGrade;
+                    }
+                } else {
+                    if (Array.isArray(program.accessRecords)) {
+                        const record = program.accessRecords.find(r => r.groupKey === currentGroupKey);
+                        if (record) hasGradeForGroup = true;
+                    }
+                }
+
+                return matchesSearch && matchesUni && matchesGrade && hasGradeForGroup;
+            });
+
+            filteredPrograms = sortData(filtered);
+            currentPage = 1; 
+            renderCurrentPage(isNaN(userGrade) ? null : userGrade);
+        }
+
+        function renderCurrentPage(userGrade = null) {
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
+            const paginatedItems = filteredPrograms.slice(startIndex, endIndex);
+
+            renderResults(paginatedItems, userGrade, filteredPrograms.length);
+            renderPagination(filteredPrograms.length);
+        }
+
+        function renderPagination(totalItems) {
+            paginationContainerTop.innerHTML = '';
+            paginationContainerBottom.innerHTML = '';
+            if (totalItems <= itemsPerPage) return;
+
+            const totalPages = Math.ceil(totalItems / itemsPerPage);
+            
+            buildPagination(paginationContainerTop, totalPages);
+            buildPagination(paginationContainerBottom, totalPages);
+        }
+
+        function buildPagination(container, totalPages) {
+            const createBtn = (text, disabled, onClick, isActive = false) => {
+                const btn = document.createElement('button');
+                btn.innerHTML = text;
+                btn.disabled = disabled;
+                
+                if (disabled) {
+                    btn.className = 'px-2 md:px-3 py-1 rounded-md border text-gray-400 border-gray-200 cursor-not-allowed text-sm';
+                } else if (isActive) {
+                    btn.className = 'px-2 md:px-3 py-1 rounded-md border bg-primary text-white border-primary text-sm font-medium shadow-sm';
+                } else {
+                    btn.className = 'px-2 md:px-3 py-1 rounded-md border text-primary border-gray-300 hover:bg-gray-50 transition-colors text-sm';
+                }
+                
+                btn.onclick = onClick;
+                return btn;
+            };
+
+            container.appendChild(createBtn('&laquo; Ant', currentPage === 1, () => changePage(currentPage - 1)));
+
+            let startPage = Math.max(1, currentPage - 2);
+            let endPage = Math.min(totalPages, currentPage + 2);
+            
+            if (currentPage <= 2) endPage = Math.min(totalPages, 5);
+            if (currentPage >= totalPages - 1) startPage = Math.max(1, totalPages - 4);
+
+            if (startPage > 1) {
+                container.appendChild(createBtn('1', false, () => changePage(1)));
+                if (startPage > 2) {
+                    const dots = document.createElement('span');
+                    dots.className = 'px-1 text-gray-400';
+                    dots.innerHTML = '&hellip;';
+                    container.appendChild(dots);
+                }
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
+                container.appendChild(createBtn(i, false, () => changePage(i), currentPage === i));
+            }
+
+            if (endPage < totalPages) {
+                if (endPage < totalPages - 1) {
+                    const dots = document.createElement('span');
+                    dots.className = 'px-1 text-gray-400';
+                    dots.innerHTML = '&hellip;';
+                    container.appendChild(dots);
+                }
+                container.appendChild(createBtn(totalPages, false, () => changePage(totalPages)));
+            }
+
+            container.appendChild(createBtn('Sig &raquo;', currentPage === totalPages, () => changePage(currentPage + 1)));
+        }
+
+        function changePage(page) {
+            currentPage = page;
+            const userGrade = parseFloat(userGradeInput.value);
+            renderCurrentPage(isNaN(userGrade) ? null : userGrade);
+            
+            document.getElementById('resultsContainer').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        function renderResults(programs, userGrade = null, totalItems = 0) {
+            resultsContainer.innerHTML = ''; 
+            resultsCount.textContent = `${totalItems} ${totalItems === 1 ? 'grado' : 'grados'}`;
+
+            if (totalItems === 0) {
+                resultsContainer.classList.add('hidden');
+                noResults.classList.remove('hidden');
+                noResultsText.textContent = 'No se han encontrado grados con esos criterios para la vía seleccionada.';
+                btnResetFilters.style.display = 'inline-block';
+                return;
+            }
+
+            resultsContainer.classList.remove('hidden');
+            noResults.classList.add('hidden');
+
+            programs.forEach(program => {
+                const currentGrade = getGradeForCurrentGroup(program);
+                const notaFinal = currentGrade !== null ? currentGrade.toFixed(3) : 'N/A';
+
+                let admissionChanceHtml = '';
+                if (userGrade !== null && currentGrade !== null) {
+                    const diff = userGrade - currentGrade;
+                    if (diff >= 0) {
+                        admissionChanceHtml = `
+                            <div class="mt-3 p-3 rounded-lg bg-green-50 border border-green-200">
+                                <span class="font-bold text-green-700 text-sm flex items-center">
+                                    <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                                    Opciones favorables
+                                </span>
+                                <p class="text-xs text-green-600 mt-1">Tu nota supera el corte. Recuerda que es orientativo.</p>
+                            </div>
+                        `;
+                    } else {
+                        admissionChanceHtml = `
+                            <div class="mt-3 p-3 rounded-lg bg-yellow-50 border border-yellow-200">
+                                <span class="font-bold text-yellow-700 text-sm flex items-center">
+                                    <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"></path></svg>
+                                    Posible si baja el corte
+                                </span>
+                                <p class="text-xs text-yellow-600 mt-1">Estás a ${Math.abs(diff).toFixed(2)} ptos de distancia.</p>
+                            </div>
+                        `;
+                    }
+                }
+
+                const regionHtml = program.region ? `<span class="px-2 py-0.5 bg-blue-50 text-blue-700 font-semibold text-xs rounded-md border border-blue-200">${program.region}</span>` : '';
+                const campusHtml = program.campus ? `<span class="px-2 py-0.5 bg-gray-100 text-gray-600 text-xs rounded-md border border-gray-200">${program.campus}</span>` : '';
+
+                const card = document.createElement('div');
+                card.className = 'bg-white border border-gray-200 rounded-xl p-5 hover:shadow-lg transition-shadow fade-in border-l-4 border-l-secondary flex flex-col justify-between';
+                
+                card.innerHTML = `
+                    <div>
+                        <div class="flex justify-between items-start mb-2">
+                            <h3 class="font-bold text-lg text-gray-800 pr-2 leading-tight">${program.displayName}</h3>
+                            <div class="bg-accent text-white px-3 py-1 rounded-lg shadow-sm text-center min-w-[70px] ml-2 shrink-0">
+                                <span class="block text-[10px] uppercase tracking-wide opacity-90">Nota Corte</span>
+                                <span class="block font-bold text-lg">${notaFinal}</span>
+                            </div>
+                        </div>
+                        <p class="text-sm font-medium text-gray-600 mb-1">Cód: ${program.code || 'N/A'}</p>
+                        <div class="flex flex-wrap items-center mt-2 gap-2">
+                            <span class="flex items-center text-sm text-gray-500">
+                                <svg class="w-4 h-4 mr-1 text-primary" fill="currentColor" viewBox="0 0 20 20"><path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 01.356-.257l4-1.714a1 1 0 11.788 1.838L7.667 9.088l1.94.831a1 1 0 00.787 0l7-3a1 1 0 000-1.838l-7-3zM3.31 9.397L5 10.12v4.102a8.969 8.969 0 00-1.05-.174 1 1 0 01-.89-.89 11.115 11.115 0 01.25-3.762zM9.3 16.573A9.026 9.026 0 007 14.935v-3.957l1.818.78a3 3 0 002.364 0l5.508-2.361a11.026 11.026 0 01.25 3.762 1 1 0 01-.89.89 8.968 8.968 0 00-5.35 2.524 1 1 0 01-1.4 0zM6 18a1 1 0 001-1v-2.065a8.935 8.935 0 00-2-.712V17a1 1 0 001 1z"></path></svg>
+                                ${program.university}
+                            </span>
+                            ${regionHtml}
+                            ${campusHtml}
+                        </div>
+                        ${admissionChanceHtml}
+                    </div>
+                    <div class="mt-4 pt-3 border-t border-gray-100 flex justify-end">
+                        <button onclick="showDetails('${program.id}')" class="text-sm font-medium text-primary hover:text-secondary transition-colors cursor-pointer flex items-center">
+                            Ver detalles 
+                            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+                        </button>
+                    </div>
+                `;
+                resultsContainer.appendChild(card);
+            });
+        }
+
+        const modal = document.getElementById('detailsModal');
+        const modalContent = document.getElementById('modalContent');
+        const modalBody = document.getElementById('modalBody');
+
+        function showDetails(programId) {
+            const program = database.programs.find(p => p.id === programId);
+            if (!program) return;
+
+            const currentGroupKey = groupSelect.value;
+            const currentGrade = getGradeForCurrentGroup(program);
+            const notaFinal = currentGrade !== null ? currentGrade.toFixed(3) : 'N/A';
+            
+            const groupInfo = database.availableGroups[currentGroupKey];
+            const description = groupInfo ? groupInfo.fullDescription : 'Información no disponible';
+
+            modalBody.innerHTML = `
+                <h4 class="text-xl font-bold text-gray-800 mb-1">${program.displayName}</h4>
+                <p class="text-primary font-medium mb-4">${program.university} <span class="text-gray-400 font-normal text-sm ml-2">(${program.region})</span></p>
+                
+                <div class="grid grid-cols-2 gap-4 mb-4">
+                    <div class="bg-gray-50 p-3 rounded-xl border border-gray-100 text-center">
+                        <span class="block text-xs text-gray-500 uppercase tracking-wider mb-1">Código Oficial</span>
+                        <span class="block font-semibold text-gray-800 text-lg">${program.code || 'N/A'}</span>
+                    </div>
+                    <div class="bg-gray-50 p-3 rounded-xl border border-gray-100 text-center border-b-4 border-b-accent">
+                        <span class="block text-xs text-gray-500 uppercase tracking-wider mb-1">Nota de Corte</span>
+                        <span class="block font-bold text-accent text-xl">${notaFinal}</span>
+                    </div>
+                </div>
+
+                <div class="bg-blue-50/50 border border-blue-100 p-4 rounded-xl text-sm text-gray-700">
+                    <p class="font-semibold text-secondary mb-1 flex items-center">
+                        <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        Vía de acceso evaluada:
+                    </p>
+                    <p class="ml-5">${description}</p>
+                </div>
+            `;
+
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+            
+            setTimeout(() => {
+                modal.classList.remove('opacity-0');
+                modalContent.classList.remove('scale-95');
+                modalContent.classList.add('scale-100');
+            }, 10);
+        }
+
+        function closeModal() {
+            modal.classList.add('opacity-0');
+            modalContent.classList.remove('scale-100');
+            modalContent.classList.add('scale-95');
+            
+            setTimeout(() => {
+                modal.classList.add('hidden');
+                modal.classList.remove('flex');
+            }, 300);
+        }
+
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeModal();
+        });
+
+        function resetFilters() {
+            searchInput.value = '';
+            universitySelect.value = '';
+            userGradeInput.value = '';
+            sortSelect.value = 'nota-desc';
+            groupSelect.value = 'group1'; 
+            filterData();
+        }
+    </script>
+</body>
+</html>
