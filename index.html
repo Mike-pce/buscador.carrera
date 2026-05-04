@@ -52,18 +52,27 @@
     <div class="max-w-6xl mx-auto bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100">
         
         <!-- Cabecera -->
-        <div class="bg-secondary p-6 md:p-8 text-white text-center md:text-left flex flex-col md:flex-row items-center justify-between">
-            <div class="flex flex-col md:flex-row items-center gap-6">
-                <!-- Logo -->
-                <img src="https://www.academiam25.com/wp-content/uploads/2025/06/2-logos.png" alt="Academia M25 Logos" class="h-14 md:h-16 object-contain bg-white p-2 rounded-xl shadow-sm">
-                <div>
-                    <h1 class="text-3xl font-bold mb-2">Buscador de Grados</h1>
-                    <p class="text-primary font-medium text-lg"><span id="region-names">Cargando Comunidades...</span> <span id="academic-year" class="text-white opacity-80 text-sm ml-2"></span></p>
+        <div class="bg-secondary p-6 md:p-8 text-white">
+            <!-- Sección principal de la cabecera -->
+            <div class="text-center md:text-left flex flex-col md:flex-row items-center justify-between">
+                <div class="flex flex-col md:flex-row items-center gap-6">
+                    <!-- Logo -->
+                    <img src="https://www.academiam25.com/wp-content/uploads/2025/06/2-logos.png" alt="Academia M25 Logos" class="h-14 md:h-16 object-contain bg-white p-2 rounded-xl shadow-sm">
+                    <div>
+                        <h1 class="text-3xl font-bold mb-2">Buscador de Grados</h1>
+                        <p class="text-primary font-medium text-lg"><span id="region-names">Cargando Comunidades...</span> <span id="academic-year" class="text-white opacity-80 text-sm ml-2"></span></p>
+                    </div>
+                </div>
+                <div class="mt-4 md:mt-0 bg-white/10 p-3 rounded-lg backdrop-blur-sm border border-white/20 text-center min-w-[120px]">
+                    <span class="block text-sm opacity-80">Convocatoria</span>
+                    <span class="block font-semibold capitalize" id="call-type">Ordinaria</span>
                 </div>
             </div>
-            <div class="mt-4 md:mt-0 bg-white/10 p-3 rounded-lg backdrop-blur-sm border border-white/20 text-center min-w-[120px]">
-                <span class="block text-sm opacity-80">Convocatoria</span>
-                <span class="block font-semibold capitalize" id="call-type">Ordinaria</span>
+            
+            <!-- Aviso orientativo (Añadido) -->
+            <div class="mt-5 pt-3 border-t border-white/10 text-white/70 text-xs md:text-sm font-light flex items-center justify-center md:justify-start">
+                <svg class="w-4 h-4 mr-1.5 opacity-80 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                <span>Las notas de corte son de carácter orientativo y corresponden a la nota del último admitido en el curso anterior.</span>
             </div>
         </div>
 
