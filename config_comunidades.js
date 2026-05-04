@@ -10,5 +10,11 @@ const archivosComunidades = [
 	"castilla-la-mancha.js",
 	"navarra.js",
 	"galicia.js",
+	"baleares.js",
+	"canarias.js",
+	"La-Rioja.js",
+	"pais-vasco.js",
+	"asturias.js",
+	"murcia.js",
     // "galicia.js"
 ];
