@@ -98,8 +98,12 @@
                 </select>
             </div>
 
-            <div class="md:col-span-6 flex items-center justify-end text-xs text-gray-500">
-                <span id="filtered-count">Mostrando 0 resultados</span>
+            <div class="md:col-span-6 flex items-center justify-between gap-4 text-xs text-gray-600">
+                <label class="inline-flex items-center gap-2 cursor-pointer select-none bg-white px-3 py-2 rounded-xl border border-gray-300 shadow-sm hover:border-primary">
+                    <input type="checkbox" id="doubleDegreeOnly" class="rounded text-primary focus:ring-primary">
+                    <span class="font-medium">Solo dobles grados</span>
+                </label>
+                <span id="filtered-count" class="text-gray-500">Mostrando 0 resultados</span>
             </div>
         </div>
 
@@ -136,6 +140,7 @@
             group: document.getElementById('groupSelect'),
             grade: document.getElementById('userGradeInput'),
             sort: document.getElementById('sortSelect'),
+            doubleOnly: document.getElementById('doubleDegreeOnly'),
             results: document.getElementById('resultsContainer'),
             totalCount: document.getElementById('total-count'),
             filteredCount: document.getElementById('filtered-count'),
@@ -190,19 +195,29 @@
             if (unis.includes(prevUni)) els.university.value = prevUni;
         }
 
+        function isDoubleDegree(item) {
+            if (norm(item.branch).includes('doble')) return true;
+            const n = norm(item.officialName);
+            if (/(doble\s+grado|doble\s+titulaci|simultaneidad|pceo|prog\.\s*conj|programa\s+conjunto)/.test(n)) return true;
+            if (/\s[-+/&]\s/.test(item.officialName || '') && !/^\s*grado\s+en\s+[^-+/&]+$/.test(n)) return true;
+            return false;
+        }
+
         function applyFilters(resetPage = true) {
             if (resetPage) currentPage = 1;
-            const q = norm(els.search.value.trim());
+            const q = norm(els.search.value.trim()).replace(/\bade\b/g, 'administracion y direccion de empresas');
             const region = els.region.value;
             const uni = els.university.value;
             const groupKey = els.group.value;
             const sort = els.sort.value;
+            const onlyDouble = els.doubleOnly.checked;
 
             filteredData = ALL_DATA.filter(item => {
                 if (region && item.region !== region) return false;
                 if (uni && item.university !== uni) return false;
+                if (onlyDouble && !isDoubleDegree(item)) return false;
                 if (q) {
-                    const hay = norm(`${item.officialName} ${item.code} ${item.university} ${item.campus || ''} ${item.region}`);
+                    const hay = norm(`${item.officialName} ${item.code} ${item.university} ${item.campus || ''} ${item.region}`).replace(/\bade\b/g, 'administracion y direccion de empresas');
                     if (!hay.includes(q)) return false;
                 }
                 return true;
@@ -344,6 +359,7 @@
         els.group.addEventListener('change', () => applyFilters(false));
         els.grade.addEventListener('input', () => render());
         els.sort.addEventListener('change', () => applyFilters(false));
+        els.doubleOnly.addEventListener('change', () => applyFilters(true));
 
         populateFilters();
         applyFilters(true);
