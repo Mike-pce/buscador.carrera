@@ -30,7 +30,7 @@
         @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
     </style>
 </head>
-<body class="p-4 md:p-8 text-gray-800">
+<body class="p-2 sm:p-4 md:p-6 text-gray-800">
     <div class="max-w-7xl mx-auto bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100">
         <!-- Cabecera -->
         <div class="bg-secondary p-6 md:p-8 text-white flex flex-col md:flex-row items-center justify-between gap-4">
@@ -98,11 +98,20 @@
                 </select>
             </div>
 
-            <div class="md:col-span-6 flex items-center justify-between gap-4 text-xs text-gray-600">
-                <label class="inline-flex items-center gap-2 cursor-pointer select-none bg-white px-3 py-2 rounded-xl border border-gray-300 shadow-sm hover:border-primary">
-                    <input type="checkbox" id="doubleDegreeOnly" class="rounded text-primary focus:ring-primary">
-                    <span class="font-medium">Solo dobles grados</span>
-                </label>
+            <div class="md:col-span-6 flex flex-wrap items-center justify-between gap-2 text-xs text-gray-600">
+                <div class="flex flex-wrap items-center gap-2">
+                    <label class="inline-flex items-center gap-2 cursor-pointer select-none bg-white px-3 py-2 rounded-xl border border-gray-300 shadow-sm hover:border-primary">
+                        <input type="checkbox" id="doubleDegreeOnly" class="rounded text-primary focus:ring-primary">
+                        <span class="font-medium">Solo dobles grados</span>
+                    </label>
+                    <label class="inline-flex items-center gap-2 cursor-pointer select-none bg-white px-3 py-2 rounded-xl border border-gray-300 shadow-sm hover:border-primary">
+                        <input type="checkbox" id="reachableOnly" class="rounded text-primary focus:ring-primary">
+                        <span class="font-medium">Admitido con mi nota</span>
+                    </label>
+                    <button type="button" id="resetBtn" class="px-3 py-2 rounded-xl border border-gray-300 bg-white text-gray-600 hover:bg-gray-100 font-medium shadow-sm">
+                        Limpiar filtros
+                    </button>
+                </div>
                 <span id="filtered-count" class="text-gray-500">Mostrando 0 resultados</span>
             </div>
         </div>
@@ -141,6 +150,8 @@
             grade: document.getElementById('userGradeInput'),
             sort: document.getElementById('sortSelect'),
             doubleOnly: document.getElementById('doubleDegreeOnly'),
+            reachableOnly: document.getElementById('reachableOnly'),
+            resetBtn: document.getElementById('resetBtn'),
             results: document.getElementById('resultsContainer'),
             totalCount: document.getElementById('total-count'),
             filteredCount: document.getElementById('filtered-count'),
@@ -205,20 +216,33 @@
 
         function applyFilters(resetPage = true) {
             if (resetPage) currentPage = 1;
-            const q = norm(els.search.value.trim()).replace(/\bade\b/g, 'administracion y direccion de empresas');
+            const rawQ = norm(els.search.value.trim());
+            const tokens = rawQ ? rawQ.split(/\s+/).filter(Boolean) : [];
             const region = els.region.value;
             const uni = els.university.value;
             const groupKey = els.group.value;
             const sort = els.sort.value;
             const onlyDouble = els.doubleOnly.checked;
+            const onlyReachable = els.reachableOnly.checked;
+            const userGrade = parseFloat(els.grade.value);
 
             filteredData = ALL_DATA.filter(item => {
                 if (region && item.region !== region) return false;
                 if (uni && item.university !== uni) return false;
                 if (onlyDouble && !isDoubleDegree(item)) return false;
-                if (q) {
-                    const hay = norm(`${item.officialName} ${item.code} ${item.university} ${item.campus || ''} ${item.region}`).replace(/\bade\b/g, 'administracion y direccion de empresas');
-                    if (!hay.includes(q)) return false;
+                if (onlyReachable && !isNaN(userGrade)) {
+                    const best = getBestGrade(item, groupKey).best;
+                    if (best === null || userGrade < best) return false;
+                }
+                if (tokens.length > 0) {
+                    const hay = norm(`${item.officialName} ${item.code} ${item.university} ${item.campus || ''} ${item.region}`);
+                    for (const t of tokens) {
+                        if (t === 'ade') {
+                            if (!/\bade\b/.test(hay) && !hay.includes('administracion y direccion de empresas')) return false;
+                        } else if (!hay.includes(t)) {
+                            return false;
+                        }
+                    }
                 }
                 return true;
             });
@@ -357,9 +381,25 @@
         els.region.addEventListener('change', () => { updateUniversities(); applyFilters(true); });
         els.university.addEventListener('change', () => applyFilters(true));
         els.group.addEventListener('change', () => applyFilters(false));
-        els.grade.addEventListener('input', () => render());
+        els.grade.addEventListener('input', () => {
+            if (els.reachableOnly.checked) applyFilters(true);
+            else render();
+        });
         els.sort.addEventListener('change', () => applyFilters(false));
         els.doubleOnly.addEventListener('change', () => applyFilters(true));
+        els.reachableOnly.addEventListener('change', () => applyFilters(true));
+        els.resetBtn.addEventListener('click', () => {
+            els.search.value = '';
+            els.region.value = '';
+            updateUniversities();
+            els.university.value = '';
+            els.group.value = 'group1';
+            els.grade.value = '';
+            els.sort.value = 'nota-desc';
+            els.doubleOnly.checked = false;
+            els.reachableOnly.checked = false;
+            applyFilters(true);
+        });
 
         populateFilters();
         applyFilters(true);
