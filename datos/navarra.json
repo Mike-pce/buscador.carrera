@@ -1,0 +1,1220 @@
+[
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Economía",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.346,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,346",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Administración y Dirección de Empresas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.846,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,846",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Administración y Dirección de Empresas (programa internacional)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 1.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "1 06,14",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería Informática",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.54,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,540",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería en Tecnologías Industriales",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.069,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,069",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería en Tecnologías Industriales (programa internacional)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.276,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,276",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería en Tecnologías de Telecomunicación",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería Eléctrica y Electrónica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.735,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,735",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería Biomédica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.36,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,360",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería Mecánica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.54,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,540",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería Térmica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.6,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,600",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería en Diseño Mecánico",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.026,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,026*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Maestro en Educación Infantil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.196,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,196",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Maestro en Educación Infantil (programa internacional)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.478,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,478",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Maestro en Educación Primaria",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.547,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,547",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Maestro en Educación Primaria (programa internacional)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.628,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,628",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Sociología Aplicada",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.639,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,639*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Trabajo Social",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.706,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,706",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Historia y Patrimonio",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.81,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,810",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Derecho",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.311,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,311",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Relaciones Laborales y Recursos Humanos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.512,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,512",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Enfermería",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.615,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,615",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Psicología",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.296,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,296",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Medicina",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.683,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,683",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ciencias Actividad Física y Deporte",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.97,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,970",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Fisioterapia",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.53,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,530",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería Agroalimentaria y del Medio Rural",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.81,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,810",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Innovación en Procesos y Productos Alimentarios",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.436,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,436",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ciencias",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.702,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,702",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ciencia de Datos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.836,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,836",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Biotecnología",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.392,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,392",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "DOBLE GRADO",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": null,
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Administración y Dirección de Empresas y Economía (programa internacional)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.744,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,744",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Administración y Dirección de Empresas y Derecho",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.949,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,949",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Administración y Dirección de Empresas y Derecho (programa internacional)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.008,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,008",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería en Tecnologías de Telecomunicación e Ingeniería Biomédica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.123,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,123",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Maestro en Educación Infantil y Maestro en Educación Primaria",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.936,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,936",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Maestro en Educación Infantil y Maestro en Educación Primaria (programa internacional)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.084,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,084",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Fisioterapia y Ciencias de la Actividad Física y del Deporte",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.97,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,970",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ingeniería Agroalimentaria y del Medio Rural e Innovación de Procesos y Productos Alimentarios",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.06,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,060",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ciencia de Datos y Administración y Dirección de Empresas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.997,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,997",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Comunidad Foral de Navarra",
+    "university": "Universidad Pública de Navarra",
+    "code": null,
+    "officialName": "Ciencia de Datos y Biotecnología",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "10ª lista de admitidos - 7 octubre 2026",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/navarra.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.512,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,512",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  }
+]

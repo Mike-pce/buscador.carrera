@@ -1,0 +1,1562 @@
+[
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Doble Grado en Física y Matemáticas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.408,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,408",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "---",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Doble Grado en Ingeniería Civil y en Gestión de Proyectos Internacionales de Ingeniería Civil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.525,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,525",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Medicina",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.328,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,328",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.6,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,600",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ciencias Biomédicas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.004,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,004",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.11,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,110",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Enfermería",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.38,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,380",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.21,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,210",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Doble Grado en Administración y Dirección de Empresas y Economía",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.653,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,653",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "---",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Doble Grado en Magisterio en Educación Infantil y en Educación Primaria",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.17,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,170",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "---",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Civil (Itinerario Bilingüe)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.392,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,392",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "---",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Doble Grado en Derecho y Administración y Dirección de Empresas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.03,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,030",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "---",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Física",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.97,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,970",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Doble Grado en Administración y Dirección de Empresas y Relaciones Laborales",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.31,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,310",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "---",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Magisterio en Educación Primaria",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.55,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,550",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,700",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Matemáticas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.36,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,360",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.86,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,860",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Magisterio en Educación Infantil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.395,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,395",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.99,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,990",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Informática",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.095,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,095",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.07,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,070",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería en Tecnologías Industriales",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.759,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,759",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Economía (Itinerario Bilingüe)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.664,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,664",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "---",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Derecho",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.078,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,078",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería de Tecnologías de Telecomunicación",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.483,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,483",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Civil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.583,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,583",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Fisioterapia (Centro Privado Adscrito)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.89,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,890",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.07,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,070",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Química",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.975,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,975",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Electrónica Industrial y Automática",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.437,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,437",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Inteligencia de Negocios y Analítica de Datos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.504,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,504",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Mecánica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.426,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,426",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Administración y Dirección de Empresas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.026,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,026",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Economía",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 6.035,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "6,035"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Geografía y Ordenación del Territorio",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 5.0,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "5,000"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Gestión de Proyectos Inernacionales de Ingeniería Civil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 5.0,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "5,000"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Historia",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 5.0,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "5,000"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería de los Recursos Mineros",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 6.41,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "6,410"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería de los Recursos Energéticos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 5.94,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "5,940"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Eléctrica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 8.604,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "8,604"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Logopedia (Centro Privado Adscrito)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.329,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,329",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Estudios Hispánicos (Centro Privado Adscrito)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 5.0,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "5,000"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Gestión Hotelera y Turística (Centro Privado Adscrito)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 5.0,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "5,000"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.11,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,110",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Marina",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 5.03,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "5,030"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Marítima y Arquitectura Naval",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.15,
+        "extraordinary": 5.282,
+        "raw": {
+          "ordinary": "6,150",
+          "extraordinary": "5,282"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Náutica y Transporte Marítimo",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 5.339,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "5,339"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "Cantabria",
+    "university": "Universidad de Cantabria",
+    "code": null,
+    "officialName": "Grado en Relaciones Laborales",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Publicación oficial UC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/cantabria.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": 5.592,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": "5,592"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  }
+]

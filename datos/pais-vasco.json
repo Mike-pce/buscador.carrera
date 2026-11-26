@@ -1,0 +1,7316 @@
+[
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en ADE + Ingeniería Informática de Gestión y Siste Información",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.864,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,864",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Farmacia + Nutrición Humana y Dietética",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.236,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,236",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Ingeniería Mecánica + ADE",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.499,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,499",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Ingeniería Mecánica + Ingeniería Eléctronica In Automática",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.316,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,316",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Administración y Dirección de Empresas",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,000",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.659,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,659",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ciencia y Tecnología de los Alimentos",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.764,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,764",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.999,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,999",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ciencias Ambientales",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.227,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,227",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.125,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,125",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ciencias de la Actividad Física y del Deporte",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.656,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,656",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.129,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,129",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Infantil (Euskera)",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.13,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,130",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.08,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,080",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Primaria (Euskera)",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.976,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,976",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.171,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,171",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Primaria (Trilingüe)",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.304,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,304",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.551,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,551",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Enfermería (C. Adscrito)",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.516,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,516",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.947,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,947",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.095,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,095",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 7.087,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,087",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,250",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Estudios Ingleses",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.08,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,080",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.469,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,469",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Estudios Vascos",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.936,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,936",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.945,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,945",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.14,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,140",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Farmacia",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.643,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,643",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.41,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,410",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Filología",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.064,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,064",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.64,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,640",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Geografía y Ordenación del Territorio",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.4,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,400",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Historia",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.797,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,797",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.292,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,292",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.063,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,063",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Historia del Arte",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.27,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,270 E",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.62,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,620",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Informática de Gestión y Sistemas de Infor",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.94,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,940",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Eléctronica Industrial y Automática",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.258,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,258",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería en Automoción",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.322,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,322",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Mecánica",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.238,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,238",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Química Industrial",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.006,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,006",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.28,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,280",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Nutrición Humana y Dietética",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.037,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,037",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,250",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.325,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,325",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Trabajo Social",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.072,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,072",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.96,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,960",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.375,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,375",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Traducción e Interpretación",
+    "campus": "Campus De Alava",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.345,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,345 E",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.515,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,515",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en ADE + Derecho",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.834,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,834",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Ingeniería Mecánica + Ingeniería Eléctronica In Automática",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.488,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,488",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Ingeniería Civil + Arquitectura Técnica",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.35,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,350",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Educación Primaria + Educación Infantil",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.084,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,084",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Administración y Dirección de Empresas",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.711,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,711",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.62,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,620",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.44,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,440",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Antropología Social",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,750 E",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.66,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,660",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.951,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,951",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Arquitectura Técnica",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.344,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,344",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.405,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,405",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Criminología",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.021,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,021",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.576,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,576",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.73,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,730",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Derecho",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.82,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,820",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.474,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,474",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.021,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,021",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.6,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,600",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Infantil (Euskera)",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.524,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,524",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.957,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,957",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Primaria (Euskera)",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.654,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,654",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Social",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.658,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,658",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,250",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.65,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,650",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Enfermería",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.33,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,330",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.71,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,710",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.47,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,470",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 6.68,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,680",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Filosofía",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.026,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,026",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.045,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,045",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Fundamentos de Arquitectura",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,000",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.88,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,880",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Civil",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.482,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,482",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería de Energías Renovables",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.46,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,460",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Eléctrica",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.59,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,590",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Eléctronica Industrial y Automática",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.758,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,758",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.18,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,180",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Informática",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.529,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,529",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Mecánica",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.624,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,624",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Inteligencia Artificial",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.36,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,360",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Logopedia",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.656,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,656",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.665,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,665",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Pedagogía",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.152,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,152",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.836,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,836",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.56,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,560",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Psicología",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.534,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,534",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.268,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,268",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.066,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,066",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,750",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Química",
+    "campus": "Campus De Gipuzkoa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.692,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,692",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.48,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,480",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Periodismo + Publicidad y Relaciones Públicas",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.428,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,428",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en ADE + Derecho",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.948,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,948",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Ciencia Política y Gestión Pública + Sociología",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.334,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,334",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Comunicación Audiovisual + Periodismo",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.028,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,028",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado en Gestión de Negocios + Relaciones Laborales y Re Humanos",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.709,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,709",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Doble Grado Física + Ingeniería Electrónica",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,250",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Double Bachelor's Degree in Business and Economics",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.99,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,990",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Administración y Dirección de Empresas",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.218,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,218",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Arte",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.511,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,511 E",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.04,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,040",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.14,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,140",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.875,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,875",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Biología",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.858,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,858",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.978,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,978",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Biomedical Engineering",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.112,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,112",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Bioquímica y Biología Molecular",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.33,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,330",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.793,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,793",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.32,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,320",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Biotecnología",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.015,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,015",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.785,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,785",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.875,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,875",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ciencia Política y Gestión Pública",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.208,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,208",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.965,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,965",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 8.209,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,209",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 7.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,500",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.375,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,375",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Comunicación Audiovisual",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.584,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,584",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.474,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,474",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Conservación y Restauración de Bienes Culturales",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.411,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,411",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": null,
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Creación y Diseño",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.511,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,511 E",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.829,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,829",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.6,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,600",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Derecho",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.208,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,208",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.749,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,749",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.74,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,740",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Economía",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.127,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,127",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.575,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,575",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Infantil (Euskera)",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.53,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,530",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.715,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,715",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Infantil (Trilingüe)",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.304,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,304",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Primaria (Euskera)",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.284,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,284",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.93,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,930",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Primaria (Trilingüe)",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.708,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,708",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.915,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,915",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Educación Social",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.808,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,808",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.37,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,370",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.125,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,125",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Enfermería",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.712,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,712",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.9,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,900",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.38,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,380",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 7.98,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,980",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,750",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Física",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.216,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,216",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.595,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,595",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Fisioterapia",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.763,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,763",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.777,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,777",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Geología",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.55,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,550",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,000",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Gestión de Negocios",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.364,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,364 E",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.24,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,240",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Ambiental",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,250",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Informática de Gestión y Sist. de Informac",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.298,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,298",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.172,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,172",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.892,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,892",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": null,
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Civil",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.354,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,354",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.94,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,940",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Eléctrica",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.403,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,403",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.479,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,479",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Electrónica",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.8,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,800",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.34,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,340",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Electrónica Industrial y Automática",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.686,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,686",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.4,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,400",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería en Ciberseguridad Aplicada a la Industria",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.66,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,660",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería en Organización Industrial",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.93,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,930",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería en Tecnologia de Telecomunicación",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.928,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,928",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería en Tecnología Industrial",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.914,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,914",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.496,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,496",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Mecánica",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.756,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,756",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.02,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,020",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Ingeniería Química",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.181,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,181",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.4,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,400",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Máquinas y Mantenimiento Naval",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.66,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,660",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.1,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,100",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Marketing",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.948,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,948",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,000",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Matemáticas",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.94,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,940",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.73,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,730",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Medicina",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.415,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,415",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.613,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,613",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.72,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,720",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Medicina (Euskera)",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.048,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,048",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.875,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,875",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Náutica y Transporte Marítimo",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.759,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,759",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.688,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,688",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 7.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,000",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Odontología",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.48,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,480",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.18,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,180",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.32,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,320",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "-",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Periodismo",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.448,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,448 E",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Publicidad y Relaciones Públicas",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.976,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,976",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.155,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,155",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Química",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.778,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,778",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Relaciones Laborales y Recursos Humanos",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.507,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,507",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.233,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,233",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "País Vasco",
+    "university": "Universidad del País Vasco / Euskal Herriko Unibertsitatea",
+    "code": null,
+    "officialName": "Grado en Sociología",
+    "campus": "Campus De Bizkaia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "UPV/EHU 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/norte/pais-vasco.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.898,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,898",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.145,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,145",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "*",
+          "extraordinary": null
+        }
+      }
+    ],
+    "dataNote": null
+  }
+]

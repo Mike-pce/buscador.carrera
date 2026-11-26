@@ -1,0 +1,5532 @@
+[
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GADEMP01",
+    "officialName": "Grado en Administración y Dirección de Empresas",
+    "campus": "Facultad de Economía y Empresa",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.931,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,931",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.805,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,805",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.52,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,520 (2B)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GBIOLO01",
+    "officialName": "Grado en Biología",
+    "campus": "Facultad de Biología",
+    "branch": "Ciencias",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.609,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,609",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.494,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,494",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.04,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,040 (2B)*",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GBIOTE01",
+    "officialName": "Grado en Biotecnología",
+    "campus": "Facultad de Biología",
+    "branch": "Ciencias",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.765,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,765",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,750",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.667,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,667 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GCINGD01",
+    "officialName": "Grado en Ciencia e Ingeniería de Datos",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.214,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,214",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.958,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,958",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GCAYDE01",
+    "officialName": "Grado en Ciencias de la Actividad Física y del Deporte (Facultad de Formación del Profesorado y E",
+    "campus": "Fac. Formación del Profesorado y Educación",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.532,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,532",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.853,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,853",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.917,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,917 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,500",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "ACAFYD01",
+    "officialName": "Grado en Ciencias de la Actividad Física y del Deporte (Facultad Padre Ossó)",
+    "campus": "Facultad \"Padre Ossó\"",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.42,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,420",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.932,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,932",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GCOMAR01",
+    "officialName": "Grado en Comercio y Marketing",
+    "campus": "Fac. de Comercio, Turismo y CCSS Jovellanos",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.402,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,402",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.313,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,313",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.22,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,220 (2B)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GCONFI01",
+    "officialName": "Grado en Contabilidad y Finanzas",
+    "campus": "Facultad de Economía y Empresa",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.152,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,152",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GCRIMI01",
+    "officialName": "Grado en Criminología",
+    "campus": "Facultad de Derecho",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.734,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,734",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.573,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,573",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.52,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,520 (2B)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GDEREC01",
+    "officialName": "Grado en Derecho",
+    "campus": "Facultad de Derecho",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.392,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,392",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.479,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,479",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.667,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,667 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GECONO01",
+    "officialName": "Grado en Economía",
+    "campus": "Facultad de Economía y Empresa",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.45,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,450",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.667,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,667",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "AEDSOC01",
+    "officialName": "Grado en Educación Social (Facultad Padre Ossó)",
+    "campus": "Facultad \"Padre Ossó\"",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.434,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,434",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.04,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,040",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GENFER01",
+    "officialName": "Grado en Enfermería",
+    "campus": "Facultad de Medicina y Ciencias de la Salud",
+    "branch": "Cien_Salud",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.526,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,526",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.3,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,300",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,500 (1A)*",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,500",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 7.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,700",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GENFCA01",
+    "officialName": "Grado en Enfermería (Facultad de Enfermería Gijón)",
+    "campus": "Facultad de Enfermería de Gijón",
+    "branch": "Cien_Salud",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.27,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,270",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.47,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,470",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,750 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,750",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.43,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,430",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GESCLR01",
+    "officialName": "Grado en Estudios Clásicos y Románicos",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": "Arte_Human",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.8,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,800",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.993,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,993",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GESTIN01",
+    "officialName": "Grado en Estudios Ingleses",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": "Arte_Human",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.515,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,515",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 8.625,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,625 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GFILOS01",
+    "officialName": "Grado en Filosofía",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": "Arte_Human",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.566,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,566",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GFISIC01",
+    "officialName": "Grado en Física",
+    "campus": "Facultad de Ciencias",
+    "branch": "Ciencias",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.853,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,853",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.212,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,212",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GFISIO01",
+    "officialName": "Grado en Fisioterapia",
+    "campus": "Facultad de Medicina y Ciencias de la Salud",
+    "branch": "Cien_Salud",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.186,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,186",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.375,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,375",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.125,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,125 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GGEORT01",
+    "officialName": "Grado en Geografía y Ordenación del Territorio",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": "Arte_Human",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.484,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,484",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.155,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,155",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GGEOLO01",
+    "officialName": "Grado en Geología",
+    "campus": "Facultad de Geología",
+    "branch": "Ciencias",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.668,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,668",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GGEADP02",
+    "officialName": "Grado en Gestión y Administración Pública (On line)",
+    "campus": "Fac. de Comercio, Turismo y CCSS Jovellanos",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.55,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,550",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.96,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,960",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,700 (2A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,500",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GHISTO01",
+    "officialName": "Grado en Historia",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": "Arte_Human",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.418,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,418",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.587,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,587",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2B)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GHISAR01",
+    "officialName": "Grado en Historia del Arte",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": "Arte_Human",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.15,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,150",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.563,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,563",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.417,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,417 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GHISCM01",
+    "officialName": "Grado en Historia y Ciencias de la Música",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": "Arte_Human",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.27,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,270",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GINGCI01",
+    "officialName": "Grado en Ingeniería Civil",
+    "campus": "Escuela Politécnica de Mieres",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.828,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,828",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIMINA01",
+    "officialName": "Grado en Ingeniería de los Recursos Mineros y Energéticos",
+    "campus": "Escuela Politécnica de Mieres",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.14,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,140",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIORGI01",
+    "officialName": "Grado en Ingeniería de Organización Industrial",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.312,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,312",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GITECI01",
+    "officialName": "Grado en Ingeniería de Tecnologías Industriales",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.486,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,486",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GITEMI01",
+    "officialName": "Grado en Ingeniería de Tecnologías Mineras",
+    "campus": "Escuela Politécnica de Mieres",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIELEC01",
+    "officialName": "Grado en Ingeniería Eléctrica",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.802,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,802",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIELIA01",
+    "officialName": "Grado en Ingeniería Electrónica Industrial y Automática",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.45,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,450",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GITELE01",
+    "officialName": "Grado en Ingeniería en Tecnologías y Servicios de Telecomunicación",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.9,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,900",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIFOMN02",
+    "officialName": "Grado en Ingeniería Forestal y del Medio Natural",
+    "campus": "Escuela Politécnica de Mieres",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.632,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,632",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.195,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,195",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIGEOM01",
+    "officialName": "Grado en Ingeniería Geomática",
+    "campus": "Escuela Politécnica de Mieres",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,750",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIISOF01",
+    "officialName": "Grado en Ingeniería Informática del Software",
+    "campus": "Escuela de Ingeniería Informática",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.866,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,866",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.882,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,882",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.083,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,083 (2B)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIITIN01",
+    "officialName": "Grado en Ingeniería Informática en Tecnologías de la Información",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.366,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,366",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.52,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,520",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIMECA01",
+    "officialName": "Grado en Ingeniería Mecánica",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.511,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,511",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,750",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIQUIM02",
+    "officialName": "Grado en Ingeniería Química",
+    "campus": "Facultad de Química",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.456,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,456",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.21,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,210",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIIQUI01",
+    "officialName": "Grado en Ingeniería Química Industrial",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.688,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,688",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GLEESL01",
+    "officialName": "Grado en Lengua Española y sus Literaturas",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": "Arte_Human",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.2,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,200",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.427,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,427",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.875,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,875 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,750",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GLEMOL01",
+    "officialName": "Grado en Lenguas Modernas y sus Literaturas",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": "Arte_Human",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.002,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,002",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.66,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,660",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.708,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,708 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GLOGOP01",
+    "officialName": "Grado en Logopedia",
+    "campus": "Facultad de Psicología",
+    "branch": "Cien_Salud",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.336,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,336",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.354,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,354",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,500",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 6.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,500",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GMEDIN01",
+    "officialName": "Grado en Maestro en Educación Infantil (Facultad de Formación del Profesorado y Educación)",
+    "campus": "Fac. Formación del Profesorado y Educación",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.932,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,932",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.37,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,370",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.333,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,333 (1B)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "AMEDIN01",
+    "officialName": "Grado en Maestro en Educación Infantil (Facultad Padre Ossó)",
+    "campus": "Facultad \"Padre Ossó\"",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.402,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,402",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,700",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GMEDPR01",
+    "officialName": "Grado en Maestro en Educación Primaria (Facultad de Formación del Profesorado y Educación)",
+    "campus": "Fac. Formación del Profesorado y Educación",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.252,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,252",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.234,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,234",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.792,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,792 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "AMEDPR01",
+    "officialName": "Grado en Maestro en Educación Primaria (Facultad Padre Ossó)",
+    "campus": "Facultad \"Padre Ossó\"",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.65,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,650",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.417,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,417",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GIMARI01",
+    "officialName": "Grado en Marina",
+    "campus": "E.S. de la Marina Civil",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.818,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,818",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.52,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,520",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.73,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,730 (2B)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GMATEM01",
+    "officialName": "Grado en Matemáticas",
+    "campus": "Facultad de Ciencias",
+    "branch": "Ciencias",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.168,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,168",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.039,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,039",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GMEDIC02",
+    "officialName": "Grado en Medicina",
+    "campus": "Facultad de Medicina y Ciencias de la Salud",
+    "branch": "Cien_Salud",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 13.05,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "13,050",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.8,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,800",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,250 (1B)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GINATR01",
+    "officialName": "Grado en Náutica y Transporte Marítimo",
+    "campus": "E.S. de la Marina Civil",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.84,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,840",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GODONT01",
+    "officialName": "Grado en Odontología",
+    "campus": "Facultad de Medicina y Ciencias de la Salud",
+    "branch": "Cien_Salud",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.948,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,948",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.66,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,660",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.417,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,417 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GPEDAG01",
+    "officialName": "Grado en Pedagogía",
+    "campus": "Fac. Formación del Profesorado y Educación",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.44,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,440",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.903,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,903",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GPSICO01",
+    "officialName": "Grado en Psicología",
+    "campus": "Facultad de Psicología",
+    "branch": "Cien_Salud",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.95,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,950",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.997,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,997",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.375,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,375 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GQUIMI01",
+    "officialName": "Grado en Química",
+    "campus": "Facultad de Química",
+    "branch": "Ciencias",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.868,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,868",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GRLYRH01",
+    "officialName": "Grado en Relaciones Laborales y Recursos Humanos",
+    "campus": "Facultad de Economía y Empresa",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.482,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,482",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "ATEROC01",
+    "officialName": "Grado en Terapia Ocupacional (Facultad Padre Ossó)",
+    "campus": "Facultad \"Padre Ossó\"",
+    "branch": "Cien_Salud",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.52,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,520",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.615,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,615",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.97,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,970 (2A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GTRASO01",
+    "officialName": "Grado en Trabajo Social",
+    "campus": "Fac. de Comercio, Turismo y CCSS Jovellanos",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.39,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,390",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.617,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,617",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.917,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,917 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "GTURIS02",
+    "officialName": "Grado en Turismo (Facultad de Comercio, Turismo y Ciencias Sociales \"Jovellanos\")",
+    "campus": "Fac. de Comercio, Turismo y CCSS Jovellanos",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.41,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,410",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GADED01",
+    "officialName": "PCEO Grado en Administración y Dirección de Empresas / Grado en Derecho",
+    "campus": "Facultad de Derecho",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.916,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,916",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.964,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,964",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.917,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,917 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GCRIMDE",
+    "officialName": "PCEO Grado en Criminología /Grado en Derecho",
+    "campus": "Facultad de Derecho",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.668,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,668",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.71,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,710",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GCIVMIN",
+    "officialName": "PCEO Grado en Ingeniería Civil / Grado en Ingeniería de los Recursos Mineros y Energéticos",
+    "campus": "Escuela Politécnica de Mieres",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.632,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,632",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GITSTIG",
+    "officialName": "PCEO Grado en Ingeniería en Tecnologías y Servicios de Telecomunicación / Grado en Ciencia e",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_Arqu it",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 13.556,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "13,556",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GIISMAT",
+    "officialName": "PCEO Grado en Ingeniería Informática del Software / Grado en Matemáticas",
+    "campus": "Escuela de Ingeniería Informática",
+    "branch": "Ing_Arquit",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 13.3,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "13,300",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GITICID",
+    "officialName": "PCEO Grado en Ingeniería Informática en Tecnologías de la Información / Grado en Ciencia e Inge",
+    "campus": "Escuela Politécnica de Ingeniería de Gijón",
+    "branch": "Ing_A rqu it",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 13.228,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "13,228",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GINPR01",
+    "officialName": "PCEO Grado en Maestro en Educación Infantil / Grado en Maestro en Educación Primaria (Faculta",
+    "campus": "F ac. Formación de l Profesorado y Educación",
+    "branch": "C ien _SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.705,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,705",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.08,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,080",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 8.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,750 (1A)",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GPRIN01",
+    "officialName": "PCEO Grado en Maestro en Educación Primaria / Grado en Maestro en Educación Infantil (Faculta",
+    "campus": "F ac. Formación de l Profesorado y Educación",
+    "branch": "C ien _SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.268,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,268",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.85,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,850",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GMAFI2A",
+    "officialName": "PCEO Grado en Matemáticas / Grado en Física. Opción A",
+    "campus": "Facultad de Ciencias",
+    "branch": "Ciencias",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.2,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,200",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.868,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,868",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GMAFI2B",
+    "officialName": "PCEO Grado en Matemáticas / Grado en Física. Opción B",
+    "campus": "Facultad de Ciencias",
+    "branch": "Ciencias",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.478,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,478",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.88,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,880",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  },
+  {
+    "region": "Principado de Asturias",
+    "university": "Universidad de Oviedo",
+    "code": "2GEDSOPE",
+    "officialName": "PCEO Grado en Pedagogía / Grado en Educación Social",
+    "campus": "Fac. Formación del Profesorado y Educación",
+    "branch": "Cien_SocJu",
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "1ª Adjudicación (15/07/2026)",
+    "publishedAt": "2026-07-15",
+    "publicationLabel": "15 de julio de 2026 (1ª Adjudicación)",
+    "sourceUrl": "https://www.uniovi.es",
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/Asturias 15-7-2026.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.478,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,478",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.827,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,827",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte de la 1ª Adjudicación (15/07/2026) de la Universidad de Oviedo."
+  }
+]

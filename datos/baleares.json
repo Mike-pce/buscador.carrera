@@ -1,0 +1,4742 @@
+[
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-001",
+    "officialName": "Doble titulación: grado de Matemáticas y grado de Ingeniería Informática",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.594,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,594",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-002",
+    "officialName": "Doble titulación: Grado en Matemáticas y Grado en Ingeniería Telemática",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-003",
+    "officialName": "Grado en Edificación",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.326,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,326",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-004",
+    "officialName": "Grado en Ingenieria de ciencias agroalimentarias",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-005",
+    "officialName": "Grado en Ingeniería Electrónica Industrial y Automática",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.814,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,814",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-006",
+    "officialName": "Grado en Ingeniería Informática",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.174,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,174",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-007",
+    "officialName": "Grado en Ingeniería Informática en Ibiza",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-008",
+    "officialName": "Grado en Ingeniería Informática en Menorca",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-009",
+    "officialName": "Grado en Ingeniería Telemática",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.106,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,106",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-010",
+    "officialName": "Grado en Matemáticas",
+    "campus": "Escuela Politécnica Superior",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-011",
+    "officialName": "Doble titulación: grado en Matemáticas i grado en Física",
+    "campus": "Facultad de Ciencias",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,500",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-012",
+    "officialName": "Grado en Biología",
+    "campus": "Facultad de Ciencias",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-013",
+    "officialName": "Grado en Bioquímica",
+    "campus": "Facultad de Ciencias",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.29,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,290",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-014",
+    "officialName": "Grado en Ciencias de la Mar",
+    "campus": "Facultad de Ciencias",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-015",
+    "officialName": "Grado en Farmacia",
+    "campus": "Facultad de Ciencias",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.62,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,620",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-016",
+    "officialName": "Grado en Física",
+    "campus": "Facultad de Ciencias",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.068,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,068",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-017",
+    "officialName": "Grado en Química",
+    "campus": "Facultad de Ciencias",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-018",
+    "officialName": "Doble titulación: Grado en Administración de Empresas y Grado en Derecho",
+    "campus": "Facultad de Derecho",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.394,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,394",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-019",
+    "officialName": "Grado en Derecho",
+    "campus": "Facultad de Derecho",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.53,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,530",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-020",
+    "officialName": "Grado en Derecho en Ibiza",
+    "campus": "Facultad de Derecho",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-021",
+    "officialName": "Grado en Derecho en Menorca",
+    "campus": "Facultad de Derecho",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-022",
+    "officialName": "Grado en Relaciones Laborales",
+    "campus": "Facultad de Derecho",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-023",
+    "officialName": "Doble titulación: Grado en Economía y Grado en Turismo",
+    "campus": "Facultad de Economía y Empresa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-024",
+    "officialName": "Grado en Administración de Empresas",
+    "campus": "Facultad de Economía y Empresa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-025",
+    "officialName": "Grado en Administración de Empresas en Ibiza",
+    "campus": "Facultad de Economía y Empresa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-026",
+    "officialName": "Grado en Administración de Empresas en Menorca",
+    "campus": "Facultad de Economía y Empresa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-027",
+    "officialName": "Grado en Economía",
+    "campus": "Facultad de Economía y Empresa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-028",
+    "officialName": "Doble titulación: Grado en Educación Infantil y Grado en Educación Primaria",
+    "campus": "Facultad de Educación",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.242,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,242",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-029",
+    "officialName": "Doble titulación: Grado en Educación Infantil y Grado en Educación Primaria en Ibiza",
+    "campus": "Facultad de Educación",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-030",
+    "officialName": "Doble titulación: Grado en Educación Infantil y Grado en Educación Primaria en Menorca",
+    "campus": "Facultad de Educación",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,750",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-031",
+    "officialName": "Grado en Ciencias de la Actividad Física y del Deporte",
+    "campus": "Facultad de Educación",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.8,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,800",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-032",
+    "officialName": "Grado en Educación Infantil",
+    "campus": "Facultad de Educación",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.76,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,760",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-033",
+    "officialName": "Grado en Educación Primaria",
+    "campus": "Facultad de Educación",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.56,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,560",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-034",
+    "officialName": "Grado en Educación Social",
+    "campus": "Facultad de Educación",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.92,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,920",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-035",
+    "officialName": "Grado en Educación Social en linea",
+    "campus": "Facultad de Educación",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-036",
+    "officialName": "Grado en Pedagogía",
+    "campus": "Facultad de Educación",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,750",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-037",
+    "officialName": "Grado en Enfermería",
+    "campus": "Facultad de Enfermería y Fisioterapia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.206,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,206",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-038",
+    "officialName": "Grado en Enfermería en Ibiza",
+    "campus": "Facultad de Enfermería y Fisioterapia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.82,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,820",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-039",
+    "officialName": "Grado en Enfermería en Menorca",
+    "campus": "Facultad de Enfermería y Fisioterapia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.98,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,980",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-040",
+    "officialName": "Grado en Fisioterapia",
+    "campus": "Facultad de Enfermería y Fisioterapia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.89,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,890",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-041",
+    "officialName": "Grado en Estudios Ingleses",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-042",
+    "officialName": "Grado en Filosofía",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-043",
+    "officialName": "Grado en Geografía",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-044",
+    "officialName": "Grado en Historia",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-045",
+    "officialName": "Grado en Historia del Arte",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-046",
+    "officialName": "Grado en Lengua y Literatura Catalanas",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-047",
+    "officialName": "Grado en Lengua y Literatura Españolas",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-048",
+    "officialName": "Grado en Trabajo Social",
+    "campus": "Facultad de Filosofía y Letras",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-049",
+    "officialName": "Grado en Medicina",
+    "campus": "Facultad de Medicina",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.242,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,242",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-050",
+    "officialName": "Grado en Psicología (pla 2024)",
+    "campus": "Facultad de Psicología",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.248,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,248",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-051",
+    "officialName": "Doble titulación: Grado en Administración de Empresas y Grado en Turismo",
+    "campus": "Facultad de Turismo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-052",
+    "officialName": "Grado en Turismo",
+    "campus": "Facultad de Turismo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-053",
+    "officialName": "Grado en Turismo en Menorca",
+    "campus": "Facultad de Turismo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-054",
+    "officialName": "Grado en Bellas Artes (Centro adscrito ADEMA)",
+    "campus": "Escuela Universitaria ADEMA",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-055",
+    "officialName": "Grado en Bellas Artes (Centro adscrito ADEMA) en inglés",
+    "campus": "Escuela Universitaria ADEMA",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-056",
+    "officialName": "Grado en Nutrición Humana y Dietética (Centro adscrito ADEMA)",
+    "campus": "Escuela Universitaria ADEMA",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-057",
+    "officialName": "Grado en Odontología (Centro adscrito ADEMA)",
+    "campus": "Escuela Universitaria ADEMA",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.59,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,590",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-058",
+    "officialName": "Grado en Odontología (Centro adscrito ADEMA) en inglés",
+    "campus": "Escuela Universitaria ADEMA",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.107,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,107",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-059",
+    "officialName": "Grado en Dirección Hotelera (Centro ads. Hoteleria de las Islas Baleares)",
+    "campus": "Escuela Universitaria de Hostelería de las Illes Balears",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.074,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,074",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  },
+  {
+    "region": "Illes Balears",
+    "university": "Universitat de les Illes Balears",
+    "code": "UIB-060",
+    "officialName": "Grado en Turismo (Centro adscrito del Consell Insular d'Eivissa) en Ibiza",
+    "campus": "Escuela Universitaria de Turismo del Consell Insular d'Eivissa",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte 2026-27 (UIB)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (UIB)",
+    "sourceUrl": "https://estudis.uib.es/estudis-de-grau/com-hi-pots-accedir/admissio/notes-de-tall",
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_baleares_uib.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales publicadas en estudis.uib.es para el curso 2026-27."
+  }
+]

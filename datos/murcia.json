@@ -1,0 +1,5965 @@
+[
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "231",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.47,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,47 (NP) (S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "209",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN BELLAS ARTES"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,5 (NP)(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "220",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN BIOLOGÍA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.097,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,097"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "218",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN BIOQUIMICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 10.339,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,339"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "200",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN BIOTECNOLOGÍA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.079,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,079"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "239",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN CC. DE LA ACTIVIDAD FÍSICA Y DEL DEPORTE"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.133,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,133"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "265",
+    "officialName": "GRADO EN CC. POLÍTICAS, GOBIERNO Y ADMINISTRACIÓN PÚBLICA",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN CC. POLÍTICAS, GOBIERNO Y ADMINISTRACIÓN PÚBLICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.466,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,466(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "278",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN CIENCIA E INGENIERÍA DE DATOS"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.613,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,613"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "217",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN CIENCIA Y TECNOLOGÍA DE LOS ALIMENTOS"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.11,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,11"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "272",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN CIENCIA Y TECNOLOGÍA GEOGRÁFICAS"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.533,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,533(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "219",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN CIENCIAS AMBIENTALES"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.966,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,966(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "201",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN COMUNICACIÓN AUDIOVISUAL"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.81,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,81"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "222",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN CRIMINOLOGÍA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.224,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,224"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "230",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN DERECHO"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.98,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,98"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "229",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN ECONOMIA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.278,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,278(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "223",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN EDUCACIÓN INFANTIL"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.808,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,808"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "242",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN EDUCACIÓN INFANTIL ISEN"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.13,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,13 (NP) (S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "206",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN EDUCACIÓN PRIMARIA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 10.13,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,13"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "255",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN EDUCACIÓN PRIMARIA ISEN"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.678,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,678(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "225",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN EDUCACIÓN SOCIAL"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.633,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,633(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "238",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN ENFERMERÍA (C.A. CARTAGENA)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.554,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,554"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "253",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN ENFERMERÍA (LORCA)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.169,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,169"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "237",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN ENFERMERÍA (MURCIA)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.869,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,869"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "277",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN ESTUDIOS DE COMUNICACIÓN Y MEDIOS/BACHELOR"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.899,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,899(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "243",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN ESTUDIOS FRANCESES"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.625,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,625(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "213",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN ESTUDIOS INGLESES"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.422,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,422(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "245",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN FARMACIA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.611,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,611"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "216",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN FILOLOGÍA CLÁSICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 8.107,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,107(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "212",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN FILOSOFIA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "233",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN FÍSICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 10.621,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,621"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "240",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN FISIOTERAPIA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 10.676,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,676"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "271",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN GESTIÓN DE INFORMACIÓN Y CONTENIDOS DIGITALES"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.972,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,972(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "211",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN HISTORIA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.908,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,908 (S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "208",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN HISTORIA DEL ARTE"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.305,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,305(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "221",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN INGENIERIA EN INFORMÁTICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 8.867,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,867"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "246",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN INGENIERÍA QUÍMICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.684,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,684"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "207",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN LENGUA Y LITERATURA ESPAÑOLAS"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.67,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,67 (NP)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "204",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN LOGOPEDIA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.975,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,975"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "252",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN MARKETING"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.14,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,14"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "214",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN MATEMÁTICAS"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.011,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,011"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "250",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN MEDICINA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 13.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "13"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "256",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN NUTRICIÓN HUMANA Y DIETÉTICA (LORCA)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.503,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,503(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "202",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN ODONTOLOGÍA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 12.553,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,553"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "205",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN OPTICA Y OPTOMETRIA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.235,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,235(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "232",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN PEDAGOGÍA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.915,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,915"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "236",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN PERIODISMO"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 8.214,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,214 (S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "203",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN PSICOLOGÍA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.531,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,531"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "227",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN PUBLICIDAD Y RR. PÚBLICAS"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.755,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,755"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "215",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN QUIMICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.38,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,38"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "261",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN RELACIONES INTERNACIONALES"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.47,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,47(NP)(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "234",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN RELACIONES LABORALES Y RECURSOS HUMANOS"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.59,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,59(NP)(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "260",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN SEGURIDAD"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.07,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,07(NP)(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "259",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN SOCIOLOGÍA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.762,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,762 (S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "276",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN TERAPIA OCUPACIONAL"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.93,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,93(NP)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "226",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN TRABAJO SOCIAL"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.29,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,29(NP)(S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "262",
+    "officialName": "GRADO EN TRADUCCIÓN E INTERPRETACIÓN",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.614,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,614"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "247",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN TURISMO (MURCIA)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.787,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,787"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "241",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "GRADO EN VETERINARIA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.28,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,28"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "249",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "DTIE GRADO EN ADE Y GRADO EN DERECHO"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 10.749,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,749"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "279",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "DTIE GRADO EN CC. ACTIV FÍSICA Y DEPORTE Y GRADO EN"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.641,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,641"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "286",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "DTIE GRADO EN CRIMINOLOGÍA Y GRADO EN SEGURIDAD"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 9.338,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,338"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "280",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "DTIE GRADO EN EDUCACIÓN INFANTIL Y GRADO EN EDUCACIÓN"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.565,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,565"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "281",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "DTIE GRADO EN EDUCACIÓN INFANTIL Y GRADO EN EDUCACIÓN"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 7.177,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,177 (S)"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "282",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "DTIE GRADO EN EDUCACIÓN PRIMARIA Y GRADO EN CC. ACTIV"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 10.841,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,841"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "284",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "DTIE GRADO EN MATEMÁTICAS E INGENIERÍA INFORMÁTICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.629,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,629"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "283",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "DTIE GRADO EN MATEMÁTICAS Y GRADO EN FÍSICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 12.755,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,755"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad de Murcia",
+    "code": "267",
+    "officialName": "",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte finales 2026-2027",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_murcia_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "DTIE GRADO EN QUÍMICA Y GRADO EN INGENIERÍA QUÍMICA"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 10.608,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,608"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad de Murcia (curso 2026-2027)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "CÓDIGO",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "TÍTULO"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "CUPO GENERAL"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "CUPOS TITULADOS"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 40.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "CUPO +40"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 25.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "CUPO +25"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "502",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería de Edificación"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.777,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,777"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.22,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,220"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,700"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "519",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Fundamentos de Arquitectura"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 10.404,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,404"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 8.08,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,080"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "518",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería Agroalimentaria y Sistemas Biológicos"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.139,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,139"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 8.09,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,090"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 6.23,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,230"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "516",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería Civil"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.41,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,410"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.79,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,790"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "517",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería de Recursos Minerales y Energía"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.93,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,930"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.64,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,640"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "570",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Programa de Ingeniero/a de Caminos"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.06,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,060"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "506",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería Eléctrica"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.389,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,389"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "507",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería Electrónica Industrial y Automática"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.683,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,683"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.34,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,340"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "508",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería Mecánica"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 10.736,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,736"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.96,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,960"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "509",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería Química Industrial"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.013,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,013"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.42,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,420"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "512",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería Tecnologías Industriales"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.797,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,797"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.06,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,060"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "521",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Diseño Industrial y Desarrollo de Producto"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 11.172,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,172"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.43,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,430"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "524",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería Biomédica"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 12.549,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,549"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 9.07,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,070"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "591",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Doble Título Específico: Ingeniería Biomédica + Electrónica Industrial y Automática"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 12.581,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,581"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 8.45,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,450"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 7.12,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,120"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "590",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Doble Título Específico: Ingeniería Mecánica + Diseño Industrial y Desarrollo del Producto"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 12.853,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,853"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "571",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Programa de Ingeniero/a Industrial"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 10.264,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,264"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "513",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Arquitectura Naval e Ingeniería de Sistemas Marinos"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.325,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,325"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.26,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,260"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 6.166,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,166"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "504",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería en Sistemas de Telecomunicación"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.763,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,763"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.13,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,130"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 6.834,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,834"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "505",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ingeniería Telemática"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.673,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,673"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "525",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Ciencia e Ingeniería de Datos"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 11.455,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,455"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.44,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,440"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "510",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Administración y Dirección de Empresas"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.65,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,650"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "520",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Grado en Turismo"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.45,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,450"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.121,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,121"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  },
+  {
+    "region": "Región de Murcia",
+    "university": "Universidad Politécnica de Cartagena",
+    "code": null,
+    "officialName": "592",
+    "campus": "Cartagena",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Notas de corte UPCT",
+    "publishedAt": null,
+    "publicationLabel": "2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/este_upct.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "Doble Título Específico: ADE + Turismo"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.57,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,570"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte de la Universidad Politécnica de Cartagena (UPCT)."
+  }
+]

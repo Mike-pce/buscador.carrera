@@ -1,0 +1,6932 @@
+[
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Bellas Artes",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.528,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,528 (1)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Conservación y Restauración de Bienes Culturales",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Diseño",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.054,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,054"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Español: Lengua y Literatura",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Estudios Clásicos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Estudios Francófonos Aplicados",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Estudios Ingleses",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Filosofía",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Historia",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Historia del Arte",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Administración y Dirección de Empresas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.527,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,527"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Antropología Social y Cultural",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Ciencias de la Actividad Física y del Deporte",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.794,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,794"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Contabilidad y Finanzas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Derecho",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.813,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,813"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Economía",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Geografía y Ordenación del Territorio",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Maestro en Educación Infantil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.335,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,335"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Maestro en Educación Primaria",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.825,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,825"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Pedagogía",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.46,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,460"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Periodismo",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.538,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,538"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Relaciones Laborales",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Sociología",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Trabajo Social",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.48,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,480"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Turismo",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Turismo (Adeje)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Biología",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.795,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,795"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Ciencias Ambientales",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.508,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,508"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Física",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.059,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,059"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Matemáticas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.026,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,026"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Química",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.121,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,121"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Enfermería",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.77,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,770"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Enfermería (Centro adscrito Nª Sra. de Candelaria)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.788,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,788"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Enfermería (La Palma)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.76,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,760"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Farmacia",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.54,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,540"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Fisioterapia",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.77,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,770"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Logopedia",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.639,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,639"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Medicina",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.318,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,318"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Nutrición Humana y Dietética",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.605,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,605"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Psicología",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.21,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,210"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Arquitectura Técnica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Ingeniería Agrícola y del Medio Rural",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Ingeniería Civil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.67,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,670 (1)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Ingeniería Electrónica Industrial y Automática",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.77,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.770"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Ingeniería Informática",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.082,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,082"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Ingeniería Mecánica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.593,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,593"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Ingeniería Química Industrial",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.871,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,871 (1)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Náutica y Transporte Marítimo",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Tecnologías Marinas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_ull.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 (2)"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa publicada por la Universidad de La Laguna (ULL)."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Doble Grado",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL Dobles Grados 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull_dobles.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "General"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa de Dobles Grados publicada por la ULL."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Doble Grado en Sociología y Antropología Social y\nCultural (1)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL Dobles Grados 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull_dobles.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.896,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,896"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa de Dobles Grados publicada por la ULL."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Doble Grado en Historia y Geografía y Ordenación del",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL Dobles Grados 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull_dobles.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.828,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,828"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa de Dobles Grados publicada por la ULL."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Doble Grado en Bellas Artes (Mención Dibujo,\nilustración y animación) y Diseño",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL Dobles Grados 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull_dobles.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.807,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,807"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa de Dobles Grados publicada por la ULL."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Doble Grado en Historia e Historia del Arte (1)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL Dobles Grados 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull_dobles.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.528,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,528"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa de Dobles Grados publicada por la ULL."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Doble Grado en Español: Lengua y Literatura y\nEstudios Clásicos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL Dobles Grados 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull_dobles.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.013,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,013"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa de Dobles Grados publicada por la ULL."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Doble Grado en Estudios Ingleses y Estudios",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL Dobles Grados 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull_dobles.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.231,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,231"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa de Dobles Grados publicada por la ULL."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Doble Grado en Derecho y Relaciones Laborales",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL Dobles Grados 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull_dobles.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.078,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,078"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa de Dobles Grados publicada por la ULL."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de La Laguna",
+    "code": null,
+    "officialName": "Doble Grado en Náutica y Transporte Marítimo y en",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULL Dobles Grados 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_ull_dobles.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.335,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,335"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte orientativa de Dobles Grados publicada por la ULL."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Historia",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Filología Hispánica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Lenguas Modernas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Traducción e Interpretación: Inglés-Alemán",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Doble Grado en Traducción: Inglés-Alemán + Inglés-Francés",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.34,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.340"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Doble Grado en Traducción: Inglés-Alemán + Turismo",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Traducción e Interpretación: Inglés-Francés",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Enfermería (Fuerteventura)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.53,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.530"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Enfermería (Gran Canaria)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.39,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11.390"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Enfermería (Lanzarote)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.63,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.630"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Fisioterapia",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.921,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.921"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Medicina",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.495,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12.495"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Veterinaria",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.04,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11.040"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Psicología (no presencial)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.491,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.491"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Arquitectura",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ciencia e Ingeniería de Datos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Biomédica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.93,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.930"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Civil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería en Diseño Industrial y Desarrollo de Productos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Eléctrica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Electrónica Industrial y Automática",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Física y Matemáticas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.843,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.843"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Geomática ( novedad )",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Informática",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Mecánica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.93,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.930"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería en Organización Industrial",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Doble Grado en Ingeniería en Organización Industrial + ADE",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Química",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería Química Industrial",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería en Tecnología Naval",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ingeniería de Tecnologías de Telecomunicación",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Administración y Dirección de Empresas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Doble Grado en ADE + Turismo",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Doble Grado en ADE + Derecho",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ciencias de la Actividad Física y del Deporte",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.878,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.878"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Derecho",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Economía",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Educación Infantil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.504,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.504"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Doble Grado en Educación Infantil + Primaria",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.603,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.603"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Educación Primaria",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.914,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.914"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Educación Primaria (no presencial)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.156,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,156"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Educación Social",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Geografía y Ordenación del Territorio",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Relaciones Laborales y Recursos Humanos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Relaciones Laborales y Recursos Humanos (no presencial)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Seguridad y Control de Riesgos (no presencial)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Trabajo Social",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Trabajo Social (no presencial)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Turismo (Gran Canaria)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Turismo (Lanzarote)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Biotecnología",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.88,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.880"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  },
+  {
+    "region": "Canarias",
+    "university": "Universidad de Las Palmas de Gran Canaria",
+    "code": null,
+    "officialName": "Grado en Ciencias del Mar",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Preinscripción ULPGC 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_ulpgc.html",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.052,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.052"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Nota de corte del cupo general publicada por la ULPGC."
+  }
+]

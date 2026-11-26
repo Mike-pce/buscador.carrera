@@ -1,0 +1,611 @@
+[
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "201G",
+    "officialName": "Grado en Administración y Dirección de Empresas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "SNC",
+          "extraordinary": "SNC"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "202G",
+    "officialName": "Grado en Derecho",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.756,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,756",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "203G",
+    "officialName": "Grado en Trabajo Social",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 9.031,
+        "raw": {
+          "ordinary": "SNC",
+          "extraordinary": "9,031"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "204G",
+    "officialName": "Grado en Relaciones Laborales y Recursos Humanos",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 7.255,
+        "raw": {
+          "ordinary": "SNC",
+          "extraordinary": "7,255"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "205G",
+    "officialName": "Grado en Educación Infantil",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.904,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,904",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "206G",
+    "officialName": "Grado en Educación Primaria",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.165,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,165",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "207G",
+    "officialName": "Grado en Turismo",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "SNC",
+          "extraordinary": "SNC"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "301G",
+    "officialName": "Grado en Enfermería",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.109,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,109",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "302G",
+    "officialName": "Grado en Medicina",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.506,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,506",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "601G",
+    "officialName": "Grado en Estudios Ingleses",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 6.475,
+        "raw": {
+          "ordinary": "SNC",
+          "extraordinary": "6,475"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "602G",
+    "officialName": "Grado en Geografía e Historia",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "SNC",
+          "extraordinary": "SNC"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "603G",
+    "officialName": "Grado en Lengua y Literatura Hispánica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "SNC",
+          "extraordinary": "SNC"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "604G",
+    "officialName": "Grado en Tecnología del Lenguaje",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "SNC",
+          "extraordinary": "SNC"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "701G",
+    "officialName": "Grado en Matemáticas",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.607,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,607",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "702G",
+    "officialName": "Grado en Química",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.106,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,106",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "703G",
+    "officialName": "Grado en Enología",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.132,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,132",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "801G",
+    "officialName": "Grado en Ingeniería Informática",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.64,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,64",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "802G",
+    "officialName": "Grado en Ingeniería Agrícola",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 6.475,
+        "raw": {
+          "ordinary": "SNC",
+          "extraordinary": "6,475"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "803G",
+    "officialName": "Grado en Ingeniería Mecánica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.434,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,434",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "804G",
+    "officialName": "Grado en Ingeniería Eléctrica",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.304,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,304",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  },
+  {
+    "region": "La Rioja",
+    "university": "Universidad de La Rioja",
+    "code": "805G",
+    "officialName": "Grado en Ingeniería Electrónica Industrial y Automática",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Convocatoria Junio y Julio 2026/2027 (tras última bajada de listas)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/norte/rioja-download.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.43,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,43",
+          "extraordinary": "*"
+        }
+      }
+    ],
+    "dataNote": null
+  }
+]

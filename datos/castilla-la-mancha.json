@@ -1,0 +1,6085 @@
+[
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "301",
+    "officialName": "Grado en Maestro en Educación Infantil (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.81,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.810 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.29,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.290 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.938,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.938",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "302",
+    "officialName": "Grado en Maestro en Educación Infantil (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.000 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.31,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.310 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "303",
+    "officialName": "Grado en Maestro en Educación Infantil (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.586,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.586 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.51,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.510 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "304",
+    "officialName": "Grado en Maestro en Educación Infantil (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.539,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.539 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.78,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.780 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.72,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.720",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "310",
+    "officialName": "Grado en Logopedia (TA)",
+    "campus": "Talavera",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.31,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.310 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.54,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.540 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.958,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.958",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "314",
+    "officialName": "Grado en Ciencias de la Actividad Física y del Deporte (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.614,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.614 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.625,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.625",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "317",
+    "officialName": "Grado en Administración y Dirección de Empresas (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.527,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.527 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "318",
+    "officialName": "Grado en Administración y Dirección de Empresas (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.136,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.136 - E",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.03,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.030",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "319",
+    "officialName": "Grado en Administración y Dirección de Empresas (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.000 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "320",
+    "officialName": "Grado en Administración y Dirección de Empresas (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.000 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "325",
+    "officialName": "Grado en Relaciones Laborales y Desarrollo de Recursos Humanos (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.000 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.4,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.400 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.000",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "328",
+    "officialName": "Grado en Educación Social (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.64,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.640 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.673,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.673 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "329",
+    "officialName": "Grado en Administración y Dirección de Empresas (TA)",
+    "campus": "Talavera",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.000 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "333",
+    "officialName": "Grado en Fisioterapia (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.638,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.638 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.37,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.370 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.138,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.138",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "334",
+    "officialName": "Grado en Derecho (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.45,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.450 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.29,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.290 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "335",
+    "officialName": "Grado en Derecho (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.725,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.725 - E",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.85,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.850 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "336",
+    "officialName": "Grado en Derecho (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.413,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.413 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "337",
+    "officialName": "Grado en Derecho (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.942,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.942 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.700 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "341",
+    "officialName": "Grado en Bioquímica (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.504,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.504 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "344",
+    "officialName": "Grado en Ingeniería Química (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.65,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.650 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "377",
+    "officialName": "Grado en Periodismo (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.792,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.792 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.635,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.635 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.771,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.771",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "382",
+    "officialName": "Grado en Terapia Ocupacional (TA)",
+    "campus": "Talavera",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.528,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.528 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.15,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.150 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.79,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.790",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "385",
+    "officialName": "Grado en Ingeniería de Tecnologías de Telecomunicación (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.407,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.407 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "387",
+    "officialName": "Grado en Enfermería (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.253,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11.253 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.04,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.040 - E",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.9,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.900",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "388",
+    "officialName": "Grado en Enfermería (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.526,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11.526 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.405,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.405 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.375,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.375",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "389",
+    "officialName": "Grado en Enfermería (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.946,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.946 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.344,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.344 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.750",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "390",
+    "officialName": "Grado en Enfermería (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.466,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11.466 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.83,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.830 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.137,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.137",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "391",
+    "officialName": "Grado en Enfermería (TA)",
+    "campus": "Talavera",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.93,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.930 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.52,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.520 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 8.043,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.043",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "392",
+    "officialName": "Grado en Maestro en Educación Primaria (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.700 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.665,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.665 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.42,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.420",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "393",
+    "officialName": "Grado en Maestro en Educación Primaria (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.889,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.889 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.81,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.810 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.02,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.020",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "394",
+    "officialName": "Grado en Maestro en Educación Primaria (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.62,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.620 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.21,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.210 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "395",
+    "officialName": "Grado en Maestro en Educación Primaria (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.136,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.136 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.02,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.020 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.700",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "396",
+    "officialName": "Grado en Estudios Internacionales (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.503,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.503 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.11,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.110 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "397",
+    "officialName": "Grado en Criminología (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.375,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.375 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.447,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.447 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.459,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.459",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "399",
+    "officialName": "Grado en Podología (TA)",
+    "campus": "Talavera",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.07,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.070 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.59,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.590 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.126,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.126",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "401",
+    "officialName": "Grado en Comunicación Audiovisual (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.661,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.661 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "402",
+    "officialName": "Grado en Biotecnología (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.387,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.387 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.43,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.430 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.063,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.063",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "403",
+    "officialName": "Grado en Ingeniería Aeroespacial (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.937,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11.937 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.54,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.540 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "405",
+    "officialName": "Grado en Ingeniería Informática (TA)",
+    "campus": "Talavera",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.07,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.070 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.63,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.630 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "406",
+    "officialName": "Grado en Ingeniería Informática (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.333,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.333 - E",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.66,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.660 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "407",
+    "officialName": "Grado en Ingeniería Informática (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.92,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.920 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.556,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.556 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.875,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.875",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "409",
+    "officialName": "Grado en Química (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.05,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.050 - E",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.33,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.330 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "413",
+    "officialName": "Grado en Ingeniería Eléctrica (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.189,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.189 - E",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "414",
+    "officialName": "Grado en Ingeniería Eléctrica (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.000 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "415",
+    "officialName": "Grado en Ingeniería Eléctrica (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.88,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.880 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "416",
+    "officialName": "Grado en Ingeniería Electrónica Industrial y Automática (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.512,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.512 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "417",
+    "officialName": "Grado en Ingeniería Electrónica Industrial y Automática (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.136,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.136 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.61,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.610 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "418",
+    "officialName": "Grado en Ingeniería Electrónica Industrial y Automática (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.268,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.268 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.21,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.210",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "420",
+    "officialName": "Grado en Ingeniería Mecánica (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.104,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.104 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "421",
+    "officialName": "Grado en Ingeniería Mecánica (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.6,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.600 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "422",
+    "officialName": "Grado en Ingeniería Biomédica (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.500 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.26,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.260 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.61,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.610",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "423",
+    "officialName": "Grado en Matemáticas (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.862,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.862 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.34,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.340 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "424",
+    "officialName": "Grado en Física (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.063,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.063 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.93,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.930 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "425",
+    "officialName": "Grado en Psicología (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.94,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.940 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.37,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.370 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 8.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.250",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "426",
+    "officialName": "Grado en Farmacia (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.684,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.684 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.24,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.240 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.813,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.813",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "428",
+    "officialName": "Grado en Medicina (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.889,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12.889 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.05,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.050 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.938,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.938",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "429",
+    "officialName": "Grado en Medicina (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.948,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12.948 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.154,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.154 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.19,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.190",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "430",
+    "officialName": "Grado en Ingeniería Civil y Territorial (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.000 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.67,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.670 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "434",
+    "officialName": "Grado en Fundamentos de Arquitectura (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.766,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.766 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.37,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.370 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "435",
+    "officialName": "Grado en Economía (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.000 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.805,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.805 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.875,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.875",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D006",
+    "officialName": "Doble Grado en Administración y Dirección de Empresas-Estudios Internacionales (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.675,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11.675 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D007",
+    "officialName": "Doble Grado en Derecho-Estudios Internacionales (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.968,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11.968 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.39,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.390 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D008",
+    "officialName": "Doble Grado en Derecho-Administración y Dirección de Empresas (TO)",
+    "campus": "Toledo",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.833,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.833 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.79,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.790",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D009",
+    "officialName": "Doble Grado en Derecho-Administración y Dirección de Empresas (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.01,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.010 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D010",
+    "officialName": "Doble Grado en Derecho-Administración y Dirección de Empresas (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.000 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.44,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.440 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D012",
+    "officialName": "Doble Grado en Comunicación Audiovisual-Periodismo (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.089,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.089 - S",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D013",
+    "officialName": "Doble Grado en Maestro en Educación Primaria y Maestro en Educación Infantil (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.586,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.586 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.171,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8.171 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D014",
+    "officialName": "Doble Grado en Maestro en Educación Primaria y Maestro en Educación Infantil (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.901,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.901 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D015",
+    "officialName": "Doble Grado en Maestro en Educación Primaria y Maestro en Educación Infantil (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.214,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9.214 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D016",
+    "officialName": "Doble Grado en Administración y Dirección de Empresas-Turismo (CU)",
+    "campus": "Cuenca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.03,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.030 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D019",
+    "officialName": "Doble Grado en Derecho-Economía (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5.000 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D020",
+    "officialName": "Doble Grado en Ingeniería Agrícola y Agroalimentaria-Biotecnología (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.414,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10.414 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D021",
+    "officialName": "Doble Grado en Ingeniería Informática-ADE (TA)",
+    "campus": "Talavera",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.477,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.477 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D022",
+    "officialName": "Doble Grado en Ingeniería Informática-ADE (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.675,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.675 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D023",
+    "officialName": "Doble Grado en Ingeniería Informática-ADE (AB)",
+    "campus": "Albacete",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.705,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6.705 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D024",
+    "officialName": "Doble Grado en Enfermería-Podología (TA)",
+    "campus": "Talavera",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.103,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11.103 - O",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  },
+  {
+    "region": "Castilla-La Mancha",
+    "university": "Universidad de Castilla-La Mancha",
+    "code": "D025",
+    "officialName": "Doble Grado en Ingeniería Química-ADE (CR)",
+    "campus": "Ciudad Real",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Readmisión-8 (UCLM 2026-27)",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026-27 (Power BI UCLM)",
+    "sourceUrl": "https://app.powerbi.com/view?r=eyJrIjoiNGZkMzRmODUtY2NmYy00ZWYwLTllM2ItNTQyODFiODZhOGRlIiwidCI6ImM0MmNiYWU2LTYxZjQtNDk4Yy05MTA3LTZhOGNmNWYwMWU1NiIsImMiOjh9",
+    "sourcePage": null,
+    "sourceFile": "fuentes/sur_uclm_powerbi.json",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.37,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7.370 - C",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "",
+          "extraordinary": ""
+        }
+      }
+    ],
+    "dataNote": "Notas de corte oficiales del informe Power BI de la UCLM (curso 2026-27, última readmisión)."
+  }
+]

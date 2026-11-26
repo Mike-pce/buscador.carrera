@@ -1,0 +1,5306 @@
+[
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 6.964,
+        "raw": {
+          "extraordinary": "6,964 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "BIOTECNOLOGÍA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.616,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,616 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "CIENCIA Y TECNOLOGÍA DE LOS ALIMENTOS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.93,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,930 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "DERECHO",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.38,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,380 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ECONOMÍA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ENFERMERÍA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.47,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,470 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.99,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,99 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.975,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,975 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.48,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,480 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ESTUDIOS CLÁSICOS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ESTUDIOS EN ARQUITECTURA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.656,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,656 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 8.17,
+        "raw": {
+          "extraordinary": "8,17 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ESTUDIOS INGLESES",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 8.104,
+        "raw": {
+          "extraordinary": "8,104 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "FILOLOGÍA HISPÁNICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.652,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,652 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.26,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,26 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "FILOSOFÍA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 7.555,
+        "raw": {
+          "extraordinary": "7,555 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 7.43,
+        "raw": {
+          "extraordinary": "7,43 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "FINANZAS Y CONTABILIDAD",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "FÍSICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "FISIOTERAPIA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.045,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,045 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.9,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,90 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.26,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,260 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "GEOGRAFÍA, TERRITORIO y MEDIO AMBIENTE",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.41,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,41 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "GEOLOGÍA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "GESTIÓN DE INFORMACIÓN Y CONTENIDOS DIGITALES",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 7.819,
+        "raw": {
+          "extraordinary": "7,819 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "HISTORIA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "HISTORIA DEL ARTE",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA BIOMÉDICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.442,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,442 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 11.881,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,881 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA DE TECNOLOGÍAS DE TELECOMUNICACIÓN",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 8.535,
+        "raw": {
+          "extraordinary": "8,535 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA DE TECNOLOGÍAS INDUSTRIALES",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.197,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,197 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA ELÉCTRICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 11.416,
+        "raw": {
+          "extraordinary": "11,416 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.995,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,995 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERIA EN DISEÑO INDUSTRIAL Y DESARROLLO DE PRODUCTO",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.726,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,726 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA INFORMÁTICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.23,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,230 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA MECÁNICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.787,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,787 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA QUÍMICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 10.464,
+        "raw": {
+          "extraordinary": "10,464 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INTERNATIONAL BUSINESS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.204,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,204 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "LENGUAS MODERNAS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MAGISTERIO EN EDUCACIÓN INFANTIL",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.531,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,531 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.43,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,43 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MAGISTERIO EN EDUCACIÓN PRIMARIA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.036,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,036 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.51,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,51 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MARKETING E INVESTIGACIÓN DE MERCADOS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.65,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,650 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MATEMÁTICAS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.772,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,772 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.62,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,62 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MEDICINA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.668,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,668 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.59,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,59 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.23,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,230 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": 8.11,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,110 Or"
+        }
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ÓPTICA Y OPTOMETRÍA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "PERIODISMO",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.754,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,754 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "PROG. CONJ. DERECHO Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.171,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,171 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "PROG. CONJ. FILOLOGÍA HISPÁNICA Y ESTUDIOS CLÁSICOS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.814,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,814 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "PROG. CONJ. FÍSICA Y MATEMÁTICAS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 13.319,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "13,319 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "PROG. CONJ. MATEMÁTICAS E INGENIERÍA INFORMÁTICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.596,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,596 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "QUÍMICA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 6.77,
+        "raw": {
+          "extraordinary": "6,770 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "RELACIONES LABORALES Y RECURSOS HUMANOS",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "TERAPIA OCUPACIONAL",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.958,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,958 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "TRABAJO SOCIAL",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "TURISMO",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "VETERINARIA",
+    "campus": "Zaragoza",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.251,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,251 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.51,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,51 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ARQUITECTURA TÉCNICA",
+    "campus": "La Almunia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 8.121,
+        "raw": {
+          "extraordinary": "8,121 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,50 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA CIVIL",
+    "campus": "La Almunia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERIA DE DATOS EN PROCESOS INDUSTRIALES",
+    "campus": "La Almunia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA DE ORGANIZACIÓN INDUSTRIAL (MODALIDAD PRESENCIAL)",
+    "campus": "La Almunia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 6.614,
+        "raw": {
+          "extraordinary": "6,614 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA DE ORGANIZACIÓN INDUSTRIAL (MODALIDAD VIRTUAL)",
+    "campus": "La Almunia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 7.1,
+        "raw": {
+          "extraordinary": "7,100 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.6,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,60 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.045,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,045 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA MECATRÓNICA",
+    "campus": "La Almunia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 7.677,
+        "raw": {
+          "extraordinary": "7,677 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "PROG. CONJ. ING. MECATRÓNICA E ING. ORGANIZACIÓN INDUSTRIAL",
+    "campus": "La Almunia",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.82,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,820 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "CIENCIAS AMBIENTALES",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "CIENCIAS DE LA ACTIVIDAD FÍSICA Y DEL DEPORTE",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.286,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,286 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ENFERMERÍA",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.161,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,161 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.53,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,53 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 6.34,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,340 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.82,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,820 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "GESTIÓN Y ADMINISTRACIÓN PÚBLICA (MODALIDAD PRESENCIAL)",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "GESTIÓN Y ADMINISTRACIÓN PÚBLICA (MODALIDAD VIRTUAL)",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.58,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,58 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.688,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,688 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA AGROALIMENTARIA Y DEL MEDIO RURAL",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 7.0,
+        "raw": {
+          "extraordinary": "7,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MAGISTERIO EN EDUCACIÓN INFANTIL",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.03,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,030 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MAGISTERIO EN EDUCACIÓN PRIMARIA",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.653,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,653 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MEDICINA",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.344,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,344 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.58,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,58 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.599,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,599 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "NUTRICIÓN HUMANA Y DIETÉTICA",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 9.76,
+        "raw": {
+          "extraordinary": "9,760 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.74,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,74 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ODONTOLOGÍA",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.471,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,471 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.46,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,46 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 11.77,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,770 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.525,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,525 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "PROG. CONJ. NUTRICIÓN HUM. Y DIETÉTICA Y CC. ACTIVIDAD FÍSICA Y DEPORTE",
+    "campus": "Huesca",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.881,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,881 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "BELLAS ARTES",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "ENFERMERÍA",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.848,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,848 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.61,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,61 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.95,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,950 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.8,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,800 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA (MODALIDAD PRESENCIAL)",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.59,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,590 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,00 Ex"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA (MODALIDAD VIRTUAL)",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.667,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,667 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.94,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,94 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.271,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,271 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "INGENIERÍA INFORMÁTICA",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MAGISTERIO EN EDUCACIÓN INFANTIL",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,00 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MAGISTERIO EN EDUCACIÓN PRIMARIA",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 6.87,
+        "raw": {
+          "extraordinary": "6,870 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.89,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,89 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "MEDICINA",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.322,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,322 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.57,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,57 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "PROG. CONJ. INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": 5.0,
+        "raw": {
+          "extraordinary": "5,000 Ex"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  },
+  {
+    "region": "Aragón",
+    "university": "Universidad de Zaragoza",
+    "code": null,
+    "officialName": "PSICOLOGÍA",
+    "campus": "Teruel",
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria y extraordinaria",
+    "adjudication": "Definitivas (Octubre 2026)",
+    "publishedAt": null,
+    "publicationLabel": "Octubre de 2026",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/este_aragon_final.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.347,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,347 Or"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.5,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,50 Or"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000 Or"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Otros cupos (Discapacidad / Deportistas / Homologado)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas mínimas de ingreso definitivas (octubre 2026) de la Universidad de Zaragoza. Or = Ordinaria, Ex = Extraordinaria."
+  }
+]

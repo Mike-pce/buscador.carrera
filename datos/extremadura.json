@@ -1,0 +1,5682 @@
+[
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1592",
+    "officialName": "Doble Gr Ing Tec Telec -Men Telemátic- / Gr Ing Infor -Men Tec Infor",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1199",
+    "officialName": "Doble Grado en A.D.E. / Derecho (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.85,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,850]"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1197",
+    "officialName": "Doble Grado en A.D.E. / Economía (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.575,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,575"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1198",
+    "officialName": "Doble Grado en A.D.E. / Relac. Laborales y Recursos Humanos (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1491",
+    "officialName": "Doble Grado en A.D.E. / Turismo (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0391",
+    "officialName": "Doble Grado en Criminología / Derecho (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.289,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,289"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0392",
+    "officialName": "Doble Grado en Derecho / A.D.E. (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.949,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,949"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1890",
+    "officialName": "Doble Grado en Educación Primaria / Educación Infantil (A)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0890",
+    "officialName": "Doble Grado en Ingeniería en Tecnologías Industriales / Grado en Ade",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0190",
+    "officialName": "Doble Grado en Matemáticas / Estadística (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.364,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,364"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1792",
+    "officialName": "Doble Grado en Periodismo / Comunicación Audiovisual (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.8,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,800"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1112",
+    "officialName": "Administración y Dirección de Empresas (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.128,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,128]"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1407",
+    "officialName": "Administración y Dirección de Empresas (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1209",
+    "officialName": "Administración y Dirección de Empresas (P)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.816,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,816"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0305",
+    "officialName": "Administración y Gestión Pública (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.038,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[8,038]"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0120",
+    "officialName": "Biología (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.05,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,050"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1010",
+    "officialName": "Bioquímica (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.928,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,928"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0136",
+    "officialName": "Biotecnología (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.811,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,811"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.79,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,790"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0516",
+    "officialName": "Ciencia y Tecnología de los Alimentos (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0121",
+    "officialName": "Ciencias Ambientales (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0903",
+    "officialName": "Ciencias de la Actividad Física y del Deporte (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.128,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,128"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.665,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,665"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1704",
+    "officialName": "Comunicación Audiovisual (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0310",
+    "officialName": "Criminología (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.675,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,675"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0306",
+    "officialName": "Derecho (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.953,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,953"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.768,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,768"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1710",
+    "officialName": "Documentación y Gestión de la Información Digital (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1114",
+    "officialName": "Economía (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,000]"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1626",
+    "officialName": "Edificación (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.609,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,609]"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.08,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,080"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1808",
+    "officialName": "Educación Infantil (A)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0616",
+    "officialName": "Educación Infantil (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.94,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,940"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.03,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,030"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0716",
+    "officialName": "Educación Infantil (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.625,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,625]"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1809",
+    "officialName": "Educación Primaria (A)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0617",
+    "officialName": "Educación Primaria (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,750"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.49,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,490"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0717",
+    "officialName": "Educación Primaria (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.9,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,900"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.988,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,988"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0724",
+    "officialName": "Educación Primaria [Mod. Bilingüe Español-Inglés] (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0726",
+    "officialName": "Educación Social (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.53,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,530"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,700"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0210",
+    "officialName": "Enfermería (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.686,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,686"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.48,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,480"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 9.38,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,380"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 7.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,750"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1305",
+    "officialName": "Enfermería (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.05,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,050"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,750"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,750"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 6.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,250"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1511",
+    "officialName": "Enfermería (M)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.99,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,990"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.745,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,745"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.13,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,130"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 8.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,750"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1210",
+    "officialName": "Enfermería (P)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.74,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,740"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.88,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,880"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.48,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,480"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": 6.75,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,750"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0130",
+    "officialName": "Enología (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0129",
+    "officialName": "Estadística (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0424",
+    "officialName": "Estudios Ingleses (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.522,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,522]"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0425",
+    "officialName": "Filología Clásica (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0426",
+    "officialName": "Filología Hispánica (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1413",
+    "officialName": "Finanzas y Contabilidad (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 1,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0140",
+    "officialName": "Física (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.392,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,392"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.86,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,860"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0216",
+    "officialName": "Fisioterapia (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.011,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,011"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.49,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,490"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.05,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,050"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0439",
+    "officialName": "Geografía y Ordenación del Territorio (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0445",
+    "officialName": "Historia del Arte y Patrimonio Histórico-Artístico (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,000]"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0440",
+    "officialName": "Historia y Patrimonio Histórico (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1640",
+    "officialName": "Ingeniería Civil (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0511",
+    "officialName": "Ingeniería de las Explotaciones Agropecuarias (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.261,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,261]"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1813",
+    "officialName": "Ingeniería de las Industrias Agrarias y Alimentarias (A)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0512",
+    "officialName": "Ingeniería de las Industrias Agrarias y Alimentarias (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.62,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[8,620]"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1648",
+    "officialName": "Ingeniería de Tecnologías de Telecomunicación (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1523",
+    "officialName": "Ingeniería de Tecnologías de Telecomunicación (M)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0816",
+    "officialName": "Ingeniería Eléctrica [Rama Industrial] (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[7,000]"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0817",
+    "officialName": "Ingeniería Electrónica y Automática [Rama Industrial] (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1512",
+    "officialName": "Ingeniería en Diseño Industrial y Desarrollo de Productos (M)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1520",
+    "officialName": "Ingeniería en Geoinformación y Geomática (M)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,000]"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1647",
+    "officialName": "Ingeniería en Informática (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.739,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,739"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0828",
+    "officialName": "Ingeniería en Tecnologías Industriales (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.788,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,788"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1211",
+    "officialName": "Ingeniería Forestal y del Medio Natural (P)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0513",
+    "officialName": "Ingeniería Hortofrutícola y Jardinería (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1524",
+    "officialName": "Ingeniería Informática (M)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 6.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,250"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0818",
+    "officialName": "Ingeniería Mecánica [Rama Industrial] (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 9.911,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,911"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0139",
+    "officialName": "Ingeniería Química Industrial (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0430",
+    "officialName": "Lenguas y Literaturas Modernas - Francés (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0431",
+    "officialName": "Lenguas y Literaturas Modernas - Portugués (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.214,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[6,214]"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0124",
+    "officialName": "Matemáticas (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 10.711,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "10,711"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 6.795,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "6,795"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0218",
+    "officialName": "Medicina (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 12.845,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "12,845"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.6,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,600"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 7.18,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,180"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1709",
+    "officialName": "Periodismo (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 5.225,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "[5,225]"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.29,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,290"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1212",
+    "officialName": "Podología (P)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.227,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,227"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 7.7,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,700"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.23,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,230"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0624",
+    "officialName": "Psicología (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.589,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,589"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.25,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,250"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "0125",
+    "officialName": "Química (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 7.3,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "7,300"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1117",
+    "officialName": "Relaciones Laborales y Recursos Humanos (B)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1306",
+    "officialName": "Terapia Ocupacional (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 8.6,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,600"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 8.32,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "8,320"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.188,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,188"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1807",
+    "officialName": "Trabajo Social (A)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1408",
+    "officialName": "Turismo (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  },
+  {
+    "region": "Extremadura",
+    "university": "Universidad de Extremadura",
+    "code": "1006",
+    "officialName": "Veterinaria (C)",
+    "campus": null,
+    "branch": null,
+    "academicYear": "2026/2027",
+    "call": "ordinaria",
+    "adjudication": "Adjudicaciones UNEX 2026/2027",
+    "publishedAt": null,
+    "publicationLabel": "Curso 2026/2027",
+    "sourceUrl": null,
+    "sourcePage": 2,
+    "sourceFile": "fuentes/sur_unex.pdf",
+    "accessRecords": [
+      {
+        "groupKey": "group1",
+        "groupDescription": "General (PAU / FP)",
+        "ordinary": 11.44,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "11,440"
+        }
+      },
+      {
+        "groupKey": "group2",
+        "groupDescription": "Titulados universitarios",
+        "ordinary": 9.31,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "9,310"
+        }
+      },
+      {
+        "groupKey": "group3",
+        "groupDescription": "Mayores de 25 años",
+        "ordinary": 5.0,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "5,000"
+        }
+      },
+      {
+        "groupKey": "group4",
+        "groupDescription": "Mayores de 45 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "X"
+        }
+      },
+      {
+        "groupKey": "group5",
+        "groupDescription": "Mayores de 40 años",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {
+          "ordinary": "#"
+        }
+      },
+      {
+        "groupKey": "group6",
+        "groupDescription": "Bachillerato homologado",
+        "ordinary": null,
+        "extraordinary": null,
+        "raw": {}
+      }
+    ],
+    "dataNote": "Notas de corte publicadas por la Universidad de Extremadura (UNEX)."
+  }
+]

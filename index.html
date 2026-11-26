@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Notas de Corte 2026/2027</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#109AD3',
+                        secondary: '#003E93',
+                        accent: '#DB0789',
+                    },
+                    fontFamily: {
+                        poppins: ['Poppins', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { font-family: 'Poppins', sans-serif; background-color: #f8fafc; }
+        .fade-in { animation: fadeIn 0.25s ease-in-out; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+</head>
+<body class="p-4 md:p-8 text-gray-800">
+    <div class="max-w-7xl mx-auto bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100">
+        <!-- Cabecera -->
+        <div class="bg-secondary p-6 md:p-8 text-white flex flex-col md:flex-row items-center justify-between gap-4">
+            <div class="flex flex-col md:flex-row items-center gap-6 text-center md:text-left">
+                <img src="https://www.academiam25.com/wp-content/uploads/2025/06/2-logos.png" alt="Academia M25 Logos" class="h-14 md:h-16 object-contain bg-white p-2 rounded-xl shadow-sm">
+                <div>
+                    <h1 class="text-2xl md:text-3xl font-bold mb-1">Buscador de Grados 2026/2027</h1>
+                    <p class="text-primary font-medium text-sm md:text-base">
+                        <span id="region-summary">Cargando comunidades...</span>
+                    </p>
+                </div>
+            </div>
+            <div class="bg-white/10 px-4 py-3 rounded-xl border border-white/20 text-center min-w-[150px]">
+                <span class="block text-xs opacity-80">Titulaciones</span>
+                <span class="block text-xl font-bold" id="total-count">0</span>
+            </div>
+        </div>
+
+        <!-- Filtros -->
+        <div class="p-6 border-b border-gray-100 bg-gray-50 grid grid-cols-1 md:grid-cols-12 gap-4">
+            <div class="md:col-span-4 relative">
+                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                    <svg class="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                </div>
+                <input type="text" id="searchInput" placeholder="Busca por titulación, código o campus..." class="w-full pl-10 pr-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary focus:border-primary outline-none shadow-sm text-sm">
+            </div>
+
+            <div class="md:col-span-2">
+                <select id="regionSelect" class="w-full px-3 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary outline-none shadow-sm bg-white text-sm">
+                    <option value="">Todas las CCAA</option>
+                </select>
+            </div>
+
+            <div class="md:col-span-3">
+                <select id="universitySelect" class="w-full px-3 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary outline-none shadow-sm bg-white text-sm">
+                    <option value="">Todas las universidades</option>
+                </select>
+            </div>
+
+            <div class="md:col-span-3">
+                <select id="groupSelect" class="w-full px-3 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary outline-none shadow-sm bg-white text-sm">
+                    <option value="group1">General (PAU / FP)</option>
+                    <option value="group2">Titulados universitarios</option>
+                    <option value="group3">Mayores de 25 años</option>
+                    <option value="group4">Mayores de 45 años</option>
+                    <option value="group5">Mayores de 40 años</option>
+                    <option value="group6">Bachillerato homologado</option>
+                </select>
+            </div>
+
+            <div class="md:col-span-3 relative">
+                <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                    <span class="text-gray-500 font-semibold text-sm">Tu nota:</span>
+                </div>
+                <input type="number" id="userGradeInput" step="0.001" min="5" max="14" placeholder="Ej: 11.5" class="w-full pl-20 pr-3 py-2.5 rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary outline-none shadow-sm text-sm">
+            </div>
+
+            <div class="md:col-span-3">
+                <select id="sortSelect" class="w-full px-3 py-2.5 text-sm rounded-xl border border-gray-300 focus:ring-2 focus:ring-primary outline-none shadow-sm bg-white">
+                    <option value="nota-desc">Nota (Mayor a menor)</option>
+                    <option value="nota-asc">Nota (Menor a mayor)</option>
+                    <option value="alfabetico-asc">Nombre (A - Z)</option>
+                    <option value="universidad">Universidad</option>
+                    <option value="comunidad">Comunidad Autónoma</option>
+                </select>
+            </div>
+
+            <div class="md:col-span-6 flex items-center justify-end text-xs text-gray-500">
+                <span id="filtered-count">Mostrando 0 resultados</span>
+            </div>
+        </div>
+
+        <!-- Aviso de cobertura -->
+        <div class="px-6 py-3 bg-blue-50 border-b border-blue-100 text-xs text-blue-900 flex flex-wrap items-center justify-between gap-2">
+            <span><strong>Cobertura 2026/2027:</strong> Las 17 comunidades autónomas con datos oficiales extraídos. Cada tarjeta indica si la nota corresponde a adjudicación inicial, lista de espera o cierre y enlaza a su fuente oficial.</span>
+        </div>
+
+        <!-- Resultados y Paginación Superior -->
+        <div class="px-6 pt-5 pb-2 flex flex-col sm:flex-row items-center justify-between gap-3">
+            <h2 class="text-lg font-bold text-secondary">Resultados</h2>
+            <div id="paginationTop" class="flex items-center gap-1 flex-wrap justify-center"></div>
+            <span id="filtered-count" class="px-3 py-1 rounded-full bg-primary text-white text-xs font-semibold">0 grados</span>
+        </div>
+        <div id="resultsContainer" class="p-6 pt-3 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+
+        <!-- Paginación Inferior -->
+        <div class="p-6 border-t border-gray-100 flex items-center justify-center bg-gray-50">
+            <div id="paginationBottom" class="flex items-center gap-1 flex-wrap justify-center"></div>
+        </div>
+    </div>
+
+    <script src="datos/datos_2026.js"></script>
+    <script>
+        const ALL_DATA = window.DATOS_NOTAS_CORTE_2026 || [];
+        const PAGE_SIZE = 10;
+        let currentPage = 1;
+        let filteredData = [];
+
+        const els = {
+            search: document.getElementById('searchInput'),
+            region: document.getElementById('regionSelect'),
+            university: document.getElementById('universitySelect'),
+            group: document.getElementById('groupSelect'),
+            grade: document.getElementById('userGradeInput'),
+            sort: document.getElementById('sortSelect'),
+            results: document.getElementById('resultsContainer'),
+            totalCount: document.getElementById('total-count'),
+            filteredCount: document.getElementById('filtered-count'),
+            regionSummary: document.getElementById('region-summary'),
+            paginationTop: document.getElementById('paginationTop'),
+            paginationBottom: document.getElementById('paginationBottom'),
+        };
+
+        function norm(str) {
+            return (str || '').toString().toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        }
+
+        function getBestGrade(item, groupKey) {
+            const rec = (item.accessRecords || []).find(r => r.groupKey === groupKey);
+            if (!rec) return { ordinary: null, extraordinary: null, best: null };
+            const ord = typeof rec.ordinary === 'number' ? rec.ordinary : null;
+            const ext = typeof rec.extraordinary === 'number' ? rec.extraordinary : null;
+            const best = ord !== null ? ord : ext;
+            return { ordinary: ord, extraordinary: ext, best };
+        }
+
+        function populateFilters() {
+            const regions = [...new Set(ALL_DATA.map(d => d.region).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'es'));
+            els.regionSummary.textContent = `${regions.length} Comunidades Autónomas · Curso 2026/2027`;
+            els.totalCount.textContent = ALL_DATA.length.toLocaleString('es-ES');
+
+            regions.forEach(r => {
+                const opt = document.createElement('option');
+                opt.value = r;
+                opt.textContent = r;
+                els.region.appendChild(opt);
+            });
+            updateUniversities();
+        }
+
+        function updateUniversities() {
+            const selectedRegion = els.region.value;
+            const prevUni = els.university.value;
+            const unis = [...new Set(
+                ALL_DATA.filter(d => !selectedRegion || d.region === selectedRegion)
+                    .map(d => d.university)
+                    .filter(Boolean)
+            )].sort((a, b) => a.localeCompare(b, 'es'));
+
+            els.university.innerHTML = '<option value="">Todas las universidades</option>';
+            unis.forEach(u => {
+                const opt = document.createElement('option');
+                opt.value = u;
+                opt.textContent = u;
+                els.university.appendChild(opt);
+            });
+            if (unis.includes(prevUni)) els.university.value = prevUni;
+        }
+
+        function applyFilters(resetPage = true) {
+            if (resetPage) currentPage = 1;
+            const q = norm(els.search.value.trim());
+            const region = els.region.value;
+            const uni = els.university.value;
+            const groupKey = els.group.value;
+            const sort = els.sort.value;
+
+            filteredData = ALL_DATA.filter(item => {
+                if (region && item.region !== region) return false;
+                if (uni && item.university !== uni) return false;
+                if (q) {
+                    const hay = norm(`${item.officialName} ${item.code} ${item.university} ${item.campus || ''} ${item.region}`);
+                    if (!hay.includes(q)) return false;
+                }
+                return true;
+            });
+
+            filteredData.sort((a, b) => {
+                const ga = getBestGrade(a, groupKey).best;
+                const gb = getBestGrade(b, groupKey).best;
+                if (sort === 'nota-desc') {
+                    if (ga === null && gb === null) return 0;
+                    if (ga === null) return 1;
+                    if (gb === null) return -1;
+                    return gb - ga;
+                }
+                if (sort === 'nota-asc') {
+                    if (ga === null && gb === null) return 0;
+                    if (ga === null) return 1;
+                    if (gb === null) return -1;
+                    return ga - gb;
+                }
+                if (sort === 'universidad') return (a.university || '').localeCompare(b.university || '', 'es');
+                if (sort === 'comunidad') return (a.region || '').localeCompare(b.region || '', 'es');
+                return (a.officialName || '').localeCompare(b.officialName || '', 'es');
+            });
+
+            render();
+        }
+
+        function render() {
+            const totalPages = Math.max(1, Math.ceil(filteredData.length / PAGE_SIZE));
+            if (currentPage > totalPages) currentPage = totalPages;
+            const start = (currentPage - 1) * PAGE_SIZE;
+            const slice = filteredData.slice(start, start + PAGE_SIZE);
+            const groupKey = els.group.value;
+            const userGrade = parseFloat(els.grade.value);
+
+            els.filteredCount.textContent = `${filteredData.length.toLocaleString('es-ES')} grados`;
+            renderPagination(totalPages);
+
+            if (slice.length === 0) {
+                els.results.innerHTML = '<div class="col-span-full text-center py-12 text-gray-500">No se encontraron titulaciones con los filtros actuales.</div>';
+                return;
+            }
+
+            els.results.innerHTML = slice.map(item => {
+                const g = getBestGrade(item, groupKey);
+                let badge = '';
+                if (!isNaN(userGrade) && g.best !== null) {
+                    if (userGrade >= g.best) {
+                        badge = '<span class="px-2 py-0.5 rounded-full text-xs font-semibold bg-emerald-100 text-emerald-800">Alcanzas la nota</span>';
+                    } else {
+                        badge = '<span class="px-2 py-0.5 rounded-full text-xs font-semibold bg-rose-100 text-rose-800">Por debajo</span>';
+                    }
+                }
+                const ordText = g.ordinary !== null ? g.ordinary.toFixed(3) : '—';
+                const extText = g.extraordinary !== null ? g.extraordinary.toFixed(3) : '—';
+                const sourceLink = item.sourceUrl ? `<a href="${item.sourceUrl}" target="_blank" rel="noopener" class="text-primary hover:underline font-medium">Fuente oficial ↗</a>` : '';
+
+                return `
+                <div class="fade-in bg-white border border-gray-200 rounded-xl p-4 shadow-sm hover:shadow-md transition-shadow flex flex-col justify-between gap-3">
+                    <div>
+                        <div class="flex items-start justify-between gap-2 mb-1">
+                            <span class="text-xs font-semibold text-secondary bg-blue-50 px-2 py-0.5 rounded">${item.region || ''}</span>
+                            ${badge}
+                        </div>
+                        <h3 class="font-semibold text-gray-900 text-sm leading-snug mb-1">${item.officialName || ''}</h3>
+                        <p class="text-xs text-gray-600">${item.university || ''}${item.campus ? ' · ' + item.campus : ''}</p>
+                        ${item.code ? `<p class="text-[11px] text-gray-400 mt-0.5">Código: ${item.code}</p>` : ''}
+                    </div>
+                    <div class="grid grid-cols-2 gap-2 bg-gray-50 p-2.5 rounded-lg text-center">
+                        <div>
+                            <span class="block text-[11px] text-gray-500">Ordinaria</span>
+                            <span class="text-base font-bold text-secondary">${ordText}</span>
+                        </div>
+                        <div>
+                            <span class="block text-[11px] text-gray-500">Extraordinaria</span>
+                            <span class="text-base font-bold text-accent">${extText}</span>
+                        </div>
+                    </div>
+                    <div class="text-[11px] text-gray-500 border-t border-gray-100 pt-2 flex flex-col gap-1">
+                        <span>${item.adjudication || item.publicationLabel || 'Curso 2026/2027'}</span>
+                        <div class="flex items-center justify-between">
+                            <span>${item.academicYear || '2026/2027'}</span>
+                            ${sourceLink}
+                        </div>
+                    </div>
+                </div>`;
+            }).join('');
+        }
+
+        function goToPage(p) {
+            currentPage = p;
+            render();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function renderPagination(totalPages) {
+            if (totalPages <= 1) {
+                els.paginationTop.innerHTML = '';
+                els.paginationBottom.innerHTML = '';
+                return;
+            }
+            const btnBase = 'px-2.5 py-1 rounded-lg border text-xs font-medium transition-colors';
+            const activeCls = 'bg-primary text-white border-primary';
+            const normalCls = 'bg-white text-gray-600 border-gray-200 hover:bg-gray-100';
+            const disabledCls = 'bg-gray-50 text-gray-300 border-gray-200 cursor-not-allowed';
+
+            let pages = [];
+            if (totalPages <= 7) {
+                for (let i = 1; i <= totalPages; i++) pages.push(i);
+            } else {
+                pages = [1];
+                let start = Math.max(2, currentPage - 1);
+                let end = Math.min(totalPages - 1, currentPage + 1);
+                if (currentPage <= 3) { start = 2; end = 5; }
+                if (currentPage >= totalPages - 2) { start = totalPages - 4; end = totalPages - 1; }
+                if (start > 2) pages.push('...');
+                for (let i = start; i <= end; i++) pages.push(i);
+                if (end < totalPages - 1) pages.push('...');
+                pages.push(totalPages);
+            }
+
+            const html = [
+                `<button ${currentPage <= 1 ? 'disabled' : `onclick="goToPage(${currentPage - 1})"`} class="${btnBase} ${currentPage <= 1 ? disabledCls : normalCls}">« Ant</button>`,
+                ...pages.map(p => p === '...'
+                    ? '<span class="px-1.5 text-xs text-gray-400">...</span>'
+                    : `<button onclick="goToPage(${p})" class="${btnBase} ${p === currentPage ? activeCls : normalCls}">${p}</button>`
+                ),
+                `<button ${currentPage >= totalPages ? 'disabled' : `onclick="goToPage(${currentPage + 1})"`} class="${btnBase} ${currentPage >= totalPages ? disabledCls : normalCls}">Sig »</button>`
+            ].join('');
+
+            els.paginationTop.innerHTML = html;
+            els.paginationBottom.innerHTML = html;
+        }
+
+        els.search.addEventListener('input', () => applyFilters(true));
+        els.region.addEventListener('change', () => { updateUniversities(); applyFilters(true); });
+        els.university.addEventListener('change', () => applyFilters(true));
+        els.group.addEventListener('change', () => applyFilters(false));
+        els.grade.addEventListener('input', () => render());
+        els.sort.addEventListener('change', () => applyFilters(false));
+
+        populateFilters();
+        applyFilters(true);
+    </script>
+</body>
+</html>
