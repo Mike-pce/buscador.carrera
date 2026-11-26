@@ -293,7 +293,13 @@
                     }
                 }
                 const ordText = g.ordinary !== null ? g.ordinary.toFixed(3) : '—';
-                const extText = g.extraordinary !== null ? g.extraordinary.toFixed(3) : '—';
+                const extBlock = g.extraordinary !== null
+                    ? `<div>
+                            <span class="block text-[11px] text-gray-500">Extraordinaria</span>
+                            <span class="text-base font-bold text-accent">${g.extraordinary.toFixed(3)}</span>
+                        </div>`
+                    : '';
+                const gridCols = g.extraordinary !== null ? 'grid-cols-2' : 'grid-cols-1';
                 const sourceLink = item.sourceUrl ? `<a href="${item.sourceUrl}" target="_blank" rel="noopener" class="text-primary hover:underline font-medium">Fuente oficial ↗</a>` : '';
 
                 return `
@@ -307,15 +313,12 @@
                         <p class="text-xs text-gray-600">${item.university || ''}${item.campus ? ' · ' + item.campus : ''}</p>
                         ${item.code ? `<p class="text-[11px] text-gray-400 mt-0.5">Código: ${item.code}</p>` : ''}
                     </div>
-                    <div class="grid grid-cols-2 gap-2 bg-gray-50 p-2.5 rounded-lg text-center">
+                    <div class="grid ${gridCols} gap-2 bg-gray-50 p-2.5 rounded-lg text-center">
                         <div>
                             <span class="block text-[11px] text-gray-500">Ordinaria</span>
                             <span class="text-base font-bold text-secondary">${ordText}</span>
                         </div>
-                        <div>
-                            <span class="block text-[11px] text-gray-500">Extraordinaria</span>
-                            <span class="text-base font-bold text-accent">${extText}</span>
-                        </div>
+                        ${extBlock}
                     </div>
                     <div class="text-[11px] text-gray-500 border-t border-gray-100 pt-2 flex flex-col gap-1">
                         <span>${item.adjudication || item.publicationLabel || 'Curso 2026/2027'}</span>
